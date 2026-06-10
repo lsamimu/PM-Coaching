@@ -1,0 +1,63 @@
+name: Daily PM Job Digest
+
+# Crawls PM roles, emails Excel workbooks, and refreshes website/src/data/jobs.json.
+on:
+  schedule:
+    # 15:00 UTC ≈ 8 AM US Pacific (PDT)
+    - cron: "0 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-email:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Crawl, build workbook, and sync website data
+        env:
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          US_ONLY: "true"
+          VERIFY_LINKS: "true"
+        run: python execution/run_pipeline.py
+
+      - name: Commit refreshed jobs.json (triggers Vercel redeploy if connected)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add website/src/data/jobs.json
+          if git diff --staged --quiet; then
+            echo "No job data changes to commit."
+          else
+            git commit -m "chore: refresh live PM roles data"
+            git push
+          fi
+
+      - name: Upload workbook as an artifact (backup, even if email fails)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pm-jobs-workbook
+          path: output/*.xlsx
+          if-no-files-found: ignore
+          retention-days: 30

@@ -1,0 +1,770 @@
+/**
+ * Premium digital products — PM Launch Lab Resource Store.
+ * Each product is a complete Notion-based operating system with problem/outcome,
+ * structure, workflows, and landing-page copy. Edit pricing & copy here.
+ */
+
+export type PremiumProduct = {
+  slug: string;
+  title: string;
+  tagline: string;
+  emoji: string;
+  category: "Job Search" | "Networking" | "Interview Prep" | "Career Playbook";
+  price: string;
+  amountCents: number;
+  badge?: string;
+  /** PM Launch Lab flagship product — featured prominently on the store. */
+  flagship?: boolean;
+  /** Notion bundle root — duplicate this page to get the full product. */
+  notionBundleUrl: string;
+  /** One-line scope — what this product owns (shown on store to reduce overlap confusion). */
+  owns: string;
+  /** What this product deliberately does NOT include (cross-sell clarity). */
+  notIncluded: string[];
+  /** One-line for store cards */
+  description: string;
+  problem: string;
+  outcome: string;
+  features: string[];
+  includedAssets: string[];
+  notionStructure: { section: string; pages: string[] }[];
+  databases: { name: string; fields: string[] }[];
+  templates: string[];
+  userWorkflow: { step: string; action: string }[];
+  landingCopy: {
+    headline: string;
+    subheadline: string;
+    bullets: string[];
+    cta: string;
+  };
+  upsells: string[];
+  sampleData?: string[];
+};
+
+export const premiumProducts: PremiumProduct[] = [
+  {
+    slug: "non-technical-to-pm",
+    title: "From Non-Technical to Product Manager",
+    tagline: "The step-by-step playbook to land a PM role at a major tech company",
+    emoji: "🚀",
+    category: "Career Playbook",
+    price: "$99",
+    amountCents: 9900,
+    badge: "Flagship",
+    flagship: true,
+    notionBundleUrl:
+      "https://app.notion.com/p/37a09d9fee5881ce8158e41903a2ee4f",
+    description:
+      "The strategy playbook for career switchers: skill gaps, PM fundamentals, resume transformation, 90-day learning plan, and weekly accountability. Tells you what to do — the OS products help you execute.",
+    problem:
+      "You're smart, motivated, and drawn to Product Management — but you don't have a PM title, a technical degree, or a clear path. YouTube videos contradict each other. Bootcamps cost thousands. And every job posting asks for experience you don't have yet.",
+    outcome:
+      "I know exactly what to do to become a PM. You leave with a gap analysis, a resume rewrite plan, PM fundamentals, a 90-day curriculum, and weekly accountability — not scattered tools you already have elsewhere.",
+    owns: "Strategy, learning & readiness — not day-to-day tracking",
+    notIncluded: [
+      "Application pipeline tracking → Job Search Command Center",
+      "Relationship CRM & outreach → PM Networking OS",
+      "Interview question bank & mock practice → Interview Prep OS",
+    ],
+    features: [
+      "Skill gap analysis with scoring rubric & priority skills",
+      "Resume transformation framework (formulas + before/after examples)",
+      "PM fundamentals crash course (6 core concepts with exercises)",
+      "Technical concepts every PM should know (no CS degree required)",
+      "90-day learning plan with weekly milestones",
+      "Weekly accountability system (learning & deliverables, not CRM)",
+      "Sammy's journey: non-technical → Microsoft PM",
+      "Clear handoffs: when to add each OS product as you progress",
+    ],
+    includedAssets: [
+      "Notion playbook workspace",
+      "Skill Gap Analysis + scoring dashboard",
+      "Resume Transformation Kit (formulas, 3 before/after examples)",
+      "PM Fundamentals module (6 concepts + exercises)",
+      "Technical PM Concepts guide",
+      "90-Day Learning Plan (week-by-week)",
+      "Weekly Accountability Tracker",
+      "Learning Log + resource library",
+      "Strategy briefs: networking & interview (what to do, not how to track)",
+    ],
+    notionStructure: [
+      {
+        section: "🏠 Start Here",
+        pages: [
+          "Playbook Home",
+          "How to Use This Playbook",
+          "Sammy's Journey (Non-Technical → Microsoft PM)",
+          "Which OS to Add & When",
+        ],
+      },
+      {
+        section: "🔍 Know Your Gap",
+        pages: [
+          "Skill Gap Analysis",
+          "Self-Assessment Quiz",
+          "Gap Score Dashboard",
+          "Priority Skills to Build",
+        ],
+      },
+      {
+        section: "📄 Build Your Story",
+        pages: [
+          "Resume Transformation Guide",
+          "PM Bullet Formula Library",
+          "Before/After Examples",
+          "LinkedIn Profile Checklist",
+        ],
+      },
+      {
+        section: "📚 Learn PM",
+        pages: [
+          "What PMs Actually Do",
+          "Discovery & Prioritization",
+          "Metrics & Roadmaps",
+          "Stakeholder Communication",
+        ],
+      },
+      {
+        section: "⚙️ Technical for PMs",
+        pages: [
+          "APIs & Integrations (PM-level)",
+          "Data & Analytics Basics",
+          "System Design (what PMs need to know)",
+          "Technical Trade-off Framework",
+        ],
+      },
+      {
+        section: "📅 Execute Your Plan",
+        pages: [
+          "90-Day Learning Plan",
+          "Weekly Accountability Tracker",
+          "Learning Log",
+          "Progress Dashboard",
+        ],
+      },
+      {
+        section: "🗺️ What's Next",
+        pages: [
+          "Networking Strategy Overview (then use Networking OS)",
+          "Interview Readiness Overview (then use Interview Prep OS)",
+          "Job Search Strategy Overview (then use Command Center)",
+        ],
+      },
+    ],
+    databases: [
+      {
+        name: "Skill Gap Tracker",
+        fields: [
+          "Skill Area",
+          "Current Level (1–5)",
+          "Target Level",
+          "Gap Size",
+          "Priority",
+          "Learning Resource",
+          "Status",
+        ],
+      },
+      {
+        name: "90-Day Plan",
+        fields: [
+          "Week",
+          "Focus Area",
+          "Tasks",
+          "Deliverable",
+          "Completed?",
+          "Reflection",
+        ],
+      },
+      {
+        name: "Weekly Accountability",
+        fields: [
+          "Week Of",
+          "Learning Goals",
+          "Goals Completed",
+          "Learning Hours",
+          "Blockers",
+          "Next Week Focus",
+        ],
+      },
+      {
+        name: "Learning Log",
+        fields: [
+          "Date",
+          "Topic",
+          "Resource",
+          "Key Takeaway",
+          "Confidence (1–5)",
+        ],
+      },
+    ],
+    templates: [
+      "Skill gap self-assessment (25 questions)",
+      "Resume bullet rewrite formula (Action + Metric + Impact)",
+      "Non-PM experience → PM impact translator",
+      "LinkedIn headline & about section templates",
+      "Weekly accountability check-in form",
+      "90-day plan generator (from gap analysis)",
+      "Technical concept cheat sheet (1-pager)",
+    ],
+    userWorkflow: [
+      { step: "1", action: "Complete Skill Gap Analysis — know what to build first" },
+      { step: "2", action: "Rewrite your resume using the PM Bullet Formula Library" },
+      { step: "3", action: "Follow the 90-Day Learning Plan — fundamentals + technical" },
+      { step: "4", action: "Run weekly accountability every Sunday" },
+      { step: "5", action: "When applying: add Job Search Command Center" },
+      { step: "6", action: "When networking or interviewing: add the matching OS" },
+    ],
+    landingCopy: {
+      headline: "From non-technical to Product Manager",
+      subheadline:
+        "The strategy playbook — gap analysis, resume transformation, PM fundamentals, and a 90-day plan. Know exactly what to do before you buy execution tools.",
+      bullets: [
+        "Skill gap analysis — know what to build first",
+        "Resume transformation for non-PM backgrounds",
+        "PM fundamentals + technical concepts (no CS degree)",
+        "90-day plan + weekly accountability",
+        "Clear handoffs to OS products when you're ready to execute",
+      ],
+      cta: "Get the Playbook — $99",
+    },
+    upsells: [
+      "Week 8+: add Job Search Command Center when you start applying",
+      "Week 6+: add PM Networking OS when you start outreach",
+      "Week 10+: add Interview Prep OS when interviews land",
+      "Add 1:1 Resume Review ($100) for personalized feedback",
+    ],
+    sampleData: [
+      "Gap Analysis — Product Discovery: Level 2 → Target 4 (Priority: High)",
+      "Week 4 — Resume draft complete, fundamentals module 2 done",
+      "Week 8 — Ready to add Job Search Command Center",
+    ],
+  },
+  {
+    slug: "pm-job-search-command-center",
+    title: "PM Job Search Command Center",
+    tagline: "Run your PM job hunt like a sales pipeline",
+    emoji: "🎯",
+    category: "Job Search",
+    price: "$79",
+    amountCents: 7900,
+    badge: "Pipeline OS",
+    notionBundleUrl:
+      "https://app.notion.com/p/37a09d9fee58813ebdf4e7320edad72e",
+    description:
+      "Application pipeline only: track every role, recruiter, interview stage, follow-up, and conversion rate. No networking CRM — that's PM Networking OS.",
+    problem:
+      "You're applying to dozens of PM roles but losing track of where each application stands, which recruiter owns what, and when to follow up. Spreadsheets break. Momentum dies.",
+    outcome:
+      "Run your applications like a sales pipeline — every role, stage, and next action in one place, with analytics on what's converting.",
+    owns: "Application & recruiter pipeline — not relationships or interview practice",
+    notIncluded: [
+      "Relationship CRM & outreach templates → PM Networking OS",
+      "Question bank & mock interview practice → Interview Prep OS",
+      "PM learning curriculum → Playbook",
+    ],
+    features: [
+      "Pipeline dashboard: applied → interview → offer",
+      "Applications database with stage tracking",
+      "Recruiter tracker (linked to applications)",
+      "Referral status field on each application (not a full CRM)",
+      "Weekly pipeline review checklist",
+      "Monthly conversion analytics",
+      "Application follow-up templates only",
+    ],
+    includedAssets: [
+      "Notion workspace",
+      "Applications database (5 filtered views)",
+      "Recruiter tracker database",
+      "Weekly pipeline review page",
+      "Monthly analytics dashboard",
+      "5 application follow-up templates",
+      "Sample data (12 applications, 3 recruiters)",
+    ],
+    notionStructure: [
+      {
+        section: "🏠 Home",
+        pages: ["Pipeline Dashboard", "Quick Start", "Weekly Review"],
+      },
+      {
+        section: "📊 Applications",
+        pages: [
+          "All Applications",
+          "Active Pipeline",
+          "Interview Stage",
+          "Offers & Decisions",
+          "Closed",
+        ],
+      },
+      {
+        section: "📞 Recruiters",
+        pages: ["Recruiter Tracker", "Needs Follow-Up"],
+      },
+      {
+        section: "📈 Analytics",
+        pages: ["Monthly Metrics", "Conversion Funnel", "Source Performance"],
+      },
+      {
+        section: "📝 Templates",
+        pages: [
+          "Post-Application Follow-Up",
+          "Post-Interview Thank-You",
+          "Status Check-In",
+          "Offer Negotiation Opener",
+        ],
+      },
+    ],
+    databases: [
+      {
+        name: "Applications",
+        fields: [
+          "Company",
+          "Role",
+          "Job Link",
+          "Applied Date",
+          "Recruiter",
+          "Referral Source",
+          "Interview Stage",
+          "Compensation",
+          "Next Action",
+          "Follow-Up Date",
+          "Notes",
+        ],
+      },
+      {
+        name: "Recruiter Tracker",
+        fields: [
+          "Recruiter Name",
+          "Agency / Company",
+          "Roles Sent",
+          "Last Message",
+          "Status",
+          "Notes",
+        ],
+      },
+    ],
+    templates: [
+      "Post-application follow-up (3-day)",
+      "Post-interview thank-you",
+      "Recruiter intro response",
+      "Status check-in after 2 weeks",
+      "Offer negotiation opener",
+    ],
+    userWorkflow: [
+      { step: "1", action: "Log every application the day you submit" },
+      { step: "2", action: "Link recruiter & referral source to each row" },
+      { step: "3", action: "Update interview stage as you progress" },
+      { step: "4", action: "Run weekly pipeline review every Sunday" },
+      { step: "5", action: "Use monthly analytics to improve your hit rate" },
+    ],
+    landingCopy: {
+      headline: "Stop losing track of your applications",
+      subheadline:
+        "A focused pipeline for PM job applications — not networking, not interview prep. Just every role, stage, and follow-up in one place.",
+      bullets: [
+        "Track every application and interview stage",
+        "Recruiter tracker linked to your pipeline",
+        "Conversion analytics: applied → interview → offer",
+        "Weekly review ritual built in",
+      ],
+      cta: "Get the Command Center — $79",
+    },
+    upsells: [
+      "Start with the Playbook if you don't have a 90-day plan yet",
+      "Add PM Networking OS to build referrals that feed this pipeline",
+      "Add Interview Prep OS when you reach interview stages",
+    ],
+    sampleData: [
+      "Stripe — APM, Applied, Referral pending",
+      "Microsoft — PM Intern, Phone screen scheduled",
+      "Figma — Associate PM, Offer received",
+    ],
+  },
+  {
+    slug: "pm-networking-os",
+    title: "PM Networking OS",
+    tagline: "Your repeatable system for referrals & opportunities",
+    emoji: "🤝",
+    category: "Networking",
+    price: "$69",
+    amountCents: 6900,
+    badge: "Popular",
+    notionBundleUrl:
+      "https://app.notion.com/p/37a09d9fee58814e95f9c01bc68e5506",
+    description:
+      "Relationships & referrals only: CRM, coffee chats, outreach library, and networking scorecard. Does not track job applications — that's the Command Center.",
+    problem:
+      "Most aspiring PMs don't know how to network effectively, maintain relationships, or turn conversations into referrals. Outreach feels awkward. Follow-ups fall through the cracks.",
+    outcome:
+      "A repeatable networking system that generates referrals — with metrics on messages sent, replies, meetings, and referrals earned.",
+    owns: "Relationships, outreach & referrals — not applications or interview practice",
+    notIncluded: [
+      "Application pipeline tracking → Job Search Command Center",
+      "Interview question bank & mock practice → Interview Prep OS",
+      "PM learning curriculum → Playbook",
+    ],
+    features: [
+      "Relationship CRM with warmth scoring",
+      "Coffee chat tracker with prep & follow-up",
+      "Referral tracker (requests & outcomes)",
+      "Outreach message library (15 templates)",
+      "Outreach log: sent → replied → meeting booked",
+      "Weekly networking scorecard",
+      "30-min weekly networking workflow",
+    ],
+    includedAssets: [
+      "Notion workspace",
+      "Relationship CRM (6 views)",
+      "Coffee Chat Tracker",
+      "Referral Tracker",
+      "Outreach Log",
+      "Outreach Message Library (15 templates)",
+      "Networking scorecard dashboard",
+      "Weekly workflow checklist",
+      "Sample contacts (10 records)",
+    ],
+    notionStructure: [
+      {
+        section: "🏠 Home",
+        pages: ["Networking Dashboard", "This Week's Focus", "User Guide"],
+      },
+      {
+        section: "👥 Relationships",
+        pages: [
+          "All Contacts",
+          "Warm Connections",
+          "Need Follow-Up",
+          "PMs at Target Companies",
+        ],
+      },
+      {
+        section: "☕ Conversations",
+        pages: [
+          "Coffee Chat Tracker",
+          "Upcoming Chats",
+          "Post-Chat Follow-Ups",
+        ],
+      },
+      {
+        section: "🔗 Referrals",
+        pages: ["Referral Pipeline", "Referrals Earned", "Referrals Requested"],
+      },
+      {
+        section: "✉️ Outreach",
+        pages: [
+          "Message Library",
+          "Cold Outreach",
+          "Alumni Outreach",
+          "LinkedIn Templates",
+          "Thank-You Messages",
+        ],
+      },
+      {
+        section: "📊 Scorecard",
+        pages: ["Weekly Metrics", "Monthly Trends", "Conversion Rates"],
+      },
+    ],
+    databases: [
+      {
+        name: "Relationship CRM",
+        fields: [
+          "Name",
+          "Company",
+          "Title",
+          "How We Met",
+          "Relationship Type",
+          "Warmth Score (1–5)",
+          "Last Contact",
+          "Next Touch Date",
+          "LinkedIn URL",
+          "Can Refer?",
+          "Notes",
+        ],
+      },
+      {
+        name: "Coffee Chats",
+        fields: [
+          "Contact",
+          "Date",
+          "Format",
+          "Prep Notes",
+          "Key Takeaways",
+          "Follow-Up Sent?",
+          "Referral Outcome",
+        ],
+      },
+      {
+        name: "Referral Tracker",
+        fields: [
+          "Contact",
+          "Company Referred To",
+          "Role",
+          "Status",
+          "Date Requested",
+          "Outcome",
+          "Thank-You Sent",
+        ],
+      },
+      {
+        name: "Outreach Log",
+        fields: [
+          "Contact",
+          "Message Type",
+          "Date Sent",
+          "Replied?",
+          "Meeting Booked?",
+          "Template Used",
+        ],
+      },
+    ],
+    templates: [
+      "Cold LinkedIn outreach — PM at target company",
+      "Alumni outreach — same university",
+      "Informational interview request",
+      "Post-coffee-chat thank-you",
+      "Referral request — after building rapport",
+      "Referral request — direct ask",
+      "Follow-up after no response (7 days)",
+      "Follow-up after no response (14 days)",
+      "Re-engagement — dormant contact",
+      "Event follow-up — met at meetup",
+    ],
+    userWorkflow: [
+      { step: "1", action: "Set up CRM & import your existing contacts" },
+      { step: "2", action: "Identify 10 target PMs at dream companies" },
+      { step: "3", action: "Send 5 outreach messages using the template library" },
+      { step: "4", action: "Book & prep for coffee chats (tracker + prep template)" },
+      { step: "5", action: "Run weekly scorecard — optimize what converts" },
+    ],
+    landingCopy: {
+      headline: "Turn networking into referrals",
+      subheadline:
+        "Relationships, outreach, and referrals only — not applications, not interview prep. The CRM aspiring PMs actually need.",
+      bullets: [
+        "Relationship CRM with warmth scores & next-touch dates",
+        "15 outreach templates that get replies",
+        "Coffee chat prep & referral tracking",
+        "Weekly scorecard: sent → meetings → referrals",
+      ],
+      cta: "Get PM Networking OS — $69",
+    },
+    upsells: [
+      "Start with the Playbook for networking strategy before execution",
+      "Add Job Search Command Center to log applications your referrals unlock",
+      "Add Resume Review before asking for referrals",
+    ],
+    sampleData: [
+      "Sarah K. — PM at Google, Warmth 4, Coffee chat scheduled",
+      "James T. — Alumni, Referral submitted to Stripe",
+      "Alex M. — Cold outreach, Replied, Meeting booked",
+    ],
+  },
+  {
+    slug: "pm-interview-prep-os",
+    title: "PM Interview Prep OS",
+    tagline: "Practice like you're in a PM bootcamp",
+    emoji: "🎤",
+    category: "Interview Prep",
+    price: "$89",
+    amountCents: 8900,
+    badge: "Complete system",
+    notionBundleUrl:
+      "https://app.notion.com/p/37a09d9fee58817e9828c546fee6a7f8",
+    description:
+      "Interview practice only: question bank, frameworks, mock scorecards, and readiness assessment. Does not track application stages — that's the Command Center.",
+    problem:
+      "Candidates freeze on product sense questions, wing metrics rounds, and have no system to practice or track improvement before real interviews.",
+    outcome:
+      "Walk into PM interviews confident — with deliberate practice, scored mocks, and a clear readiness score.",
+    owns: "Interview practice & readiness — not applications or networking",
+    notIncluded: [
+      "Application pipeline & interview stage tracking → Job Search Command Center",
+      "Relationship CRM & outreach → PM Networking OS",
+      "PM fundamentals curriculum → Playbook",
+    ],
+    features: [
+      "Question bank: 80+ questions across 7 categories",
+      "Answer framework library (CIRCLES, STAR, metrics, etc.)",
+      "Practice session tracker",
+      "Mock interview scorecard with rubrics",
+      "Weakness tracker tied to categories",
+      "Interview readiness assessment",
+      "Sample answers for top 15 questions",
+    ],
+    includedAssets: [
+      "Notion workspace",
+      "Question Bank (80+ questions, 7 categories)",
+      "Answer Framework Library",
+      "Practice Session Tracker",
+      "Mock Interview Scorecard",
+      "Weakness Tracker",
+      "Readiness Assessment + rubric",
+      "Sample answers gallery",
+    ],
+    notionStructure: [
+      {
+        section: "🏠 Home",
+        pages: [
+          "Interview Dashboard",
+          "Readiness Assessment",
+          "This Week's Practice Plan",
+        ],
+      },
+      {
+        section: "📚 Question Bank",
+        pages: [
+          "All Questions",
+          "Product Sense",
+          "Product Design",
+          "Metrics & Analytics",
+          "Execution",
+          "Strategy",
+          "Behavioral",
+          "Leadership",
+        ],
+      },
+      {
+        section: "🧠 Frameworks",
+        pages: [
+          "CIRCLES Method",
+          "STAR for Behavioral",
+          "Metrics Framework",
+          "Prioritization (RICE)",
+          "Trade-off Framework",
+          "Sample Answers Gallery",
+        ],
+      },
+      {
+        section: "🏋️ Practice",
+        pages: [
+          "Practice Tracker",
+          "Mock Interview Log",
+          "Weakness Tracker",
+        ],
+      },
+      {
+        section: "📊 Progress",
+        pages: [
+          "Readiness Score",
+          "Category Breakdown",
+          "Improvement Trends",
+        ],
+      },
+    ],
+    databases: [
+      {
+        name: "Question Bank",
+        fields: [
+          "Question",
+          "Category",
+          "Difficulty",
+          "Framework to Use",
+          "Practiced?",
+          "Confidence (1–5)",
+          "Notes",
+          "Sample Answer Link",
+        ],
+      },
+      {
+        name: "Practice Sessions",
+        fields: [
+          "Date",
+          "Type (Solo / Mock / Live)",
+          "Questions Covered",
+          "Duration",
+          "Score",
+          "Key Learnings",
+          "Next Focus",
+        ],
+      },
+      {
+        name: "Mock Interview Scorecard",
+        fields: [
+          "Date",
+          "Interviewer Type",
+          "Product Sense Score",
+          "Metrics Score",
+          "Behavioral Score",
+          "Communication Score",
+          "Overall Score",
+          "Feedback Notes",
+          "Action Items",
+        ],
+      },
+      {
+        name: "Weakness Tracker",
+        fields: [
+          "Weak Area",
+          "Evidence",
+          "Priority",
+          "Practice Plan",
+          "Status",
+          "Target Date",
+        ],
+      },
+    ],
+    templates: [
+      "Product sense answer — CIRCLES walkthrough",
+      "Metrics question — goal → metric → trade-offs",
+      "Behavioral — STAR story builder",
+      "Prioritization — RICE scoring sheet",
+      "Mock interview debrief template",
+      "Weekly practice plan generator",
+      "Readiness self-assessment rubric",
+    ],
+    userWorkflow: [
+      { step: "1", action: "Take the Readiness Assessment to find your gaps" },
+      { step: "2", action: "Pick 5 questions from your weakest category" },
+      { step: "3", action: "Practice using frameworks — log each session" },
+      { step: "4", action: "Run a mock interview & score yourself on the rubric" },
+      { step: "5", action: "Reflect, update weakness tracker, repeat weekly" },
+    ],
+    landingCopy: {
+      headline: "Walk into PM interviews prepared",
+      subheadline:
+        "Practice and readiness only — question bank, frameworks, mock scorecards. Not application tracking, not networking.",
+      bullets: [
+        "80+ PM interview questions across 7 categories",
+        "Answer frameworks (CIRCLES, STAR, metrics)",
+        "Mock scorecard with professional rubrics",
+        "Readiness assessment before you schedule loops",
+      ],
+      cta: "Get Interview Prep OS — $89",
+    },
+    upsells: [
+      "Start with the Playbook to learn PM fundamentals first",
+      "Add Job Search Command Center to track which companies you're interviewing at",
+      "Add 1:1 Mock Interview coaching ($100/session) for live feedback",
+    ],
+    sampleData: [
+      "Product Sense — 'Design a product for elderly users' (Practiced, Confidence 3)",
+      "Metrics — 'How would you measure success for Instagram Reels?' (Not yet)",
+      "Behavioral — 'Tell me about a time you influenced without authority' (Confidence 4)",
+    ],
+  },
+];
+
+/** Store-card subset (same as full list for now). */
+export const products = premiumProducts.map((p) => ({
+  slug: p.slug,
+  title: p.title,
+  category: p.category,
+  emoji: p.emoji,
+  description: p.description,
+  price: p.price,
+  amountCents: p.amountCents,
+  badge: p.badge,
+  tagline: p.tagline,
+  owns: p.owns,
+  notionBundleUrl: p.notionBundleUrl,
+}));
+
+export function getProduct(slug: string): PremiumProduct | undefined {
+  return premiumProducts.find((p) => p.slug === slug);
+}
+
+export function getFlagshipProduct(): PremiumProduct {
+  return premiumProducts.find((p) => p.flagship) ?? premiumProducts[0];
+}
+
+/** OS products (excluding the flagship playbook). */
+export const osProducts = premiumProducts.filter((p) => !p.flagship);
