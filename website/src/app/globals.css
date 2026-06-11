@@ -127,19 +127,11 @@ h1, h2, h3, h4, h5, h6 {
 .animate-float-slow { animation: float-slow 7s ease-in-out infinite; }
 .animate-float-medium { animation: float-medium 5.5s ease-in-out infinite; }
 
-/* Marquee for credibility strip */
-@keyframes marquee {
-  from { transform: translateX(0); }
-  to { transform: translateX(-50%); }
-}
-.animate-marquee { animation: marquee 28s linear infinite; }
-
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .animate-float-slow,
-  .animate-float-medium,
-  .animate-marquee { animation: none; }
+  .animate-float-medium { animation: none; }
 }
 
 /* Custom focus ring for accessibility */

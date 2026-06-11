@@ -32,21 +32,21 @@ function Counter({ value, suffix }: { value: number; suffix?: string }) {
 export function Credibility() {
   return (
     <section className="py-12">
-      {/* marquee strip */}
-      <div className="relative overflow-hidden border-y border-lavender-100 bg-white/50 py-4">
-        <div className="flex w-max animate-marquee gap-10 pr-10">
-          {[...credibility, ...credibility, ...credibility, ...credibility].map(
-            (item, i) => (
-              <span
-                key={i}
-                className="flex items-center gap-3 whitespace-nowrap text-lg font-bold text-charcoal-soft"
-              >
-                <span className="text-lavender-400">✦</span>
-                {item}
-              </span>
-            ),
-          )}
-        </div>
+      <div className="border-y border-lavender-100 bg-white/50 py-6">
+        <Container>
+          <ul className="flex flex-wrap items-center justify-center gap-3 sm:gap-4">
+            {credibility.map((item) => (
+              <li key={item}>
+                <span className="inline-flex items-center gap-2 rounded-full bg-white/80 px-4 py-2 text-sm font-bold text-charcoal-soft shadow-soft ring-1 ring-lavender-100 sm:px-5 sm:text-base">
+                  <span className="text-lavender-400" aria-hidden>
+                    ✦
+                  </span>
+                  {item}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </Container>
       </div>
 
       {metrics.length > 0 && (
