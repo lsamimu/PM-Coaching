@@ -68,7 +68,6 @@ export const metrics: { label: string; value: number; suffix?: string }[] = [];
 
 export const credibility = [
   "Product Manager",
-  "Microsoft",
   "PM Mentor",
   "Career Coach",
 ] as const;
