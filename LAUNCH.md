@@ -28,7 +28,12 @@ Your **code is ready**. Finish these dashboard steps to go live.
 
 ## Phase 3 — Domain & email (30 min)
 
-- [ ] Vercel → **Domains** → add `pmlaunchlab.com` → update DNS at registrar
+- [x] Vercel → **Domains** → add `pmlaunchlab.com` and `www.pmlaunchlab.com` *(added via CLI)*
+- [ ] **Squarespace DNS** (domain uses Squarespace nameservers) — add these records:
+  - `A` record → `@` (or blank host) → `76.76.21.21`
+  - `A` record → `www` → `76.76.21.21`
+  - *(Alternative: point nameservers to Vercel — `ns1.vercel-dns.com` and `ns2.vercel-dns.com` — but that replaces all Squarespace DNS)*
+- [ ] Wait for Vercel to verify (you’ll get an email) → then update Vercel env `NEXT_PUBLIC_SITE_URL` to `https://pmlaunchlab.com` and redeploy
 - [ ] Resend → **Domains** → verify `pmlaunchlab.com`
 - [ ] Update Vercel env: `CONTACT_FROM="PM Launch Lab <hello@pmlaunchlab.com>"`
 
