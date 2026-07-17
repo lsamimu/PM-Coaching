@@ -1,551 +1,177 @@
 {
-  "generated_at": "2026-07-16T16:18:18.059461+00:00",
-  "count": 460,
+  "generated_at": "2026-07-17T16:16:31.886820+00:00",
+  "count": 464,
   "categories": {
-    "PM Internships": 19,
+    "PM Internships": 18,
     "Associate PM Roles": 89,
     "Product Analyst Roles": 0,
-    "Full-Time PM Roles": 352
+    "Full-Time PM Roles": 357
   },
   "jobs": [
     {
-      "role": "Manager, Product Manager-Small Business Bank Associate Servicing",
-      "company": "Capital One",
+      "role": "Associate Product Manager - CDH",
+      "company": "BlueCross BlueShield of Tennessee",
       "level": "Entry / Associate",
-      "link": "https://builtin.com/job/manager-product-manager-small-business-bank-associate-servicing/10205623",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
+      "link": "https://builtin.com/job/associate-product-manager-cdh/10212392",
+      "location": "Chattanooga, TN, USA",
       "posted": "Yesterday",
       "source": "Built In",
-      "summary": "Capital One is hiring for a Manager, Product Manager-Small Business Bank Associate Servicing in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
     },
     {
-      "role": "Manager, Product Manager-Small Business Bank Digital Servicing",
+      "role": "Product Manager - Capital One Travel",
       "company": "Capital One",
       "level": "Not specified",
-      "link": "https://builtin.com/job/manager-product-manager-small-business-bank-digital-servicing/10205658",
+      "link": "https://builtin.com/job/product-manager-capital-one-travel/10224407",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
       "posted": "Yesterday",
       "source": "Built In",
-      "summary": "Capital One is hiring for a Manager, Product Manager-Small Business Bank Digital Servicing in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "Capital One is hiring for a Product Manager - Capital One Travel in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Senior Manager, Product Manager - In Person Transactions",
+      "role": "Product Manager - Mainstreet Card Team",
+      "company": "Capital One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-mainstreet-card-team/10224430",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "Capital One is hiring for a Product Manager - Mainstreet Card Team in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Associate, Product Manager - Card Capabilities (Business Cards & Payments)",
       "company": "Capital One",
       "level": "Senior",
-      "link": "https://builtin.com/job/senior-manager-product-manager-person-transactions/10205606",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
+      "link": "https://builtin.com/job/senior-associate-product-manager-card-capabilities-business-cards-payments/10224465",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "Capital One is hiring for a Senior Associate, Product Manager - Card Capabilities (Business Cards & Payments) in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Software Product Manager, AI",
+      "company": "Chamberlain Group",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/software-product-manager-ai/10225959",
+      "location": "Illinois, USA",
       "posted": "Yesterday",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Senior Manager, Product Manager- Migration Strategy & Ecosystem Readiness",
-      "company": "Capital One",
-      "level": "Senior",
-      "link": "https://builtin.com/job/senior-manager-product-manager-migration-strategy-ecosystem-readiness/10205622",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
+      "role": "Product Manager — Drone & Unmanned Systems",
+      "company": "Doodle Labs",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-drone-unmanned-systems/10227701",
+      "location": "Austin, TX, USA",
       "posted": "Yesterday",
       "source": "Built In",
-      "summary": "Capital One is hiring for a Senior Manager, Product Manager- Migration Strategy & Ecosystem Readiness in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "Doodle Labs is hiring for a Product Manager — Drone & Unmanned Systems in Austin, TX, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Senior Manager, Product Manager-Data Analysis & Governance",
-      "company": "Capital One",
-      "level": "Senior",
-      "link": "https://builtin.com/job/senior-manager-product-manager-data-analysis-governance/10205637",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
+      "role": "Product Manager — Tactical Radio & Wearables",
+      "company": "Doodle Labs",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-tactical-radio-wearables/10227691",
+      "location": "Austin, TX, USA",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "Doodle Labs is hiring for a Product Manager — Tactical Radio & Wearables in Austin, TX, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "ImageTrend",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/10224063",
+      "location": "Eagan, MN, USA",
       "posted": "Yesterday",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
+      "category": "Associate PM Roles"
     },
     {
-      "role": "Product Manager, Consumer Mobile App",
-      "company": "CarGurus",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-consumer-mobile-app/10204173",
-      "location": "Boston, MA, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "CarGurus is hiring for a Product Manager, Consumer Mobile App in Boston, MA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager III",
-      "company": "Garner Health",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-iii/10210534",
-      "location": "New York, NY, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "Garner Health is hiring for a Product Manager III in New York, NY, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager- Vehicle Observability",
-      "company": "General Motors",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-vehicle-observability/10195553",
-      "location": "Warren, MI, USA; Mountain View, CA, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "General Motors is hiring for a Staff Product Manager- Vehicle Observability in Warren, MI, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "AVP, Product Manager - Bank Innovation",
-      "company": "Leader Bank",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/avp-product-manager-bank-innovation/10197940",
-      "location": "Arlington, MA, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "Leader Bank is hiring for a AVP, Product Manager - Bank Innovation in Arlington, MA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager - Product Strategy & Marketing",
+      "role": "Product Manager",
       "company": "NBCUniversal",
       "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-product-strategy-marketing/10195343",
-      "location": "New York, NY, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "NBCUniversal is hiring for a Remote Product Manager - Product Strategy & Marketing in New York, NY, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager Sr - P&amp;C",
-      "company": "PNC Bank",
-      "level": "Senior",
-      "link": "https://builtin.com/job/product-manager-sr-p-amp-c/10197450",
-      "location": "Cleveland, OH, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "PNC Bank is hiring for a Product Manager Sr - P&C in Cleveland, OH, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "US Conec",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/10206911",
-      "location": "Hickory, NC, USA",
-      "posted": "Yesterday",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Mobile Product Manager",
-      "company": "Aspen One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/mobile-product-manager/10206184",
-      "location": "Basalt, CO, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, Consumer Decision",
-      "company": "CarGurus",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-decision/8556990",
-      "location": "Boston, MA, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "CarGurus is hiring for a Product Manager, Consumer Decision in Boston, MA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Director HR Product Manager",
-      "company": "Chewy",
-      "level": "Director",
-      "link": "https://builtin.com/job/associate-director-product-manager/9405470",
-      "location": "Bellevue, WA, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Senior Associate - Product Manager",
-      "company": "New York Life Insurance Company",
-      "level": "Senior",
-      "link": "https://builtin.com/job/senior-associate-product-manager/8446777",
-      "location": "New York, NY, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "New York Life Insurance Company is hiring for a Senior Associate - Product Manager in New York, NY, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Product Manager II",
-      "company": "PNC Bank",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-ii/9515788",
-      "location": "Pittsburgh, PA, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "PNC Bank is hiring for a Product Manager II in Pittsburgh, PA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, Cards",
-      "company": "Rain",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-cards/9187287",
-      "location": "New York, NY, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "Rain is hiring for a Product Manager, Cards in New York, NY, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, New Industries",
-      "company": "Rundoo",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-new-industries/9187907",
-      "location": "Redwood City, CA, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "Rundoo is hiring for a Product Manager, New Industries in Redwood City, CA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "SailPoint",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager/10154802",
-      "location": "United States; Austin, TX, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, Ads Product – Brand",
-      "company": "Snap Inc.",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-ads-product-brand/9570213",
-      "location": "New York, NY, USA; Bellevue, WA, USA; Palo Alto, CA, USA; Los Angeles, CA, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Sonar",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager/8490587",
-      "location": "Austin, TX, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "Sonar is hiring for a Product Manager in Austin, TX, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, GTM Engineering",
-      "company": "Superhuman",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-gtm-engineering/9421648",
-      "location": "Seattle, WA, USA; San Francisco, CA, USA",
-      "posted": "Reposted Yesterday",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "Ecolab",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9719736",
-      "location": "Naperville, IL, USA",
-      "posted": "Reposted 8 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager - Hybrid",
-      "company": "Owens & Minor",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/product-manager-alpharetta-ga-onsite/8743320",
-      "location": "Alpharetta, GA, USA",
-      "posted": "Reposted 8 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "TruVideo, Inc",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9160618",
-      "location": "Wellesley, MA, USA",
-      "posted": "Reposted 7 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "Axos Bank",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9160868",
-      "location": "San Diego, CA, USA",
-      "posted": "Reposted 6 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "Dynabrade, Inc.",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9997222",
-      "location": "Clarence, NY, USA",
-      "posted": "Reposted 6 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager, Dictionary Media Group",
-      "company": "IXL Learning",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager-dictionary-media-group/8663497",
-      "location": "San Mateo, CA, USA",
-      "posted": "Reposted 5 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager, Rosetta Stone",
-      "company": "IXL Learning",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager-rosetta-stone/8663509",
-      "location": "San Mateo, CA, USA",
-      "posted": "Reposted 5 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "IXL Associate Product Manager",
-      "company": "IXL Learning",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/ixl-associate-product-manager/8663496",
-      "location": "San Mateo, CA, USA",
-      "posted": "Reposted 5 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager - Benefits",
-      "company": "Niural Inc.",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager-benefits/9755209",
-      "location": "New York City, NY, USA",
-      "posted": "Reposted 4 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, Card Schemes",
-      "company": "Airwallex",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-card-schemes/9741023",
-      "location": "San Francisco, CA, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, GTPN",
-      "company": "Airwallex",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-gtpn/9741084",
-      "location": "San Francisco, CA, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, Advanced Insights & Modeling",
-      "company": "Block",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-advanced-insights-modeling/9376316",
-      "location": "New York, NY, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "ClassWallet",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager/9481785",
-      "location": "United States",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, AI Developer Productivity",
-      "company": "General Motors",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-ai-developer-productivity/9486429",
-      "location": "Warren, MI, USA; Sunnyvale, CA, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Agent Product Manager",
-      "company": "Granted",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/agent-product-manager/8051280",
-      "location": "New York City, New York, NY, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Principal Product Manager, Commerce",
-      "company": "Rockstar Games",
-      "level": "Principal",
-      "link": "https://builtin.com/job/associate-principal-product-manager-commerce/8681751",
-      "location": "Manhattan, NY, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, AI Clinical Tools",
-      "company": "Sprinter Health",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-ai-clinical-tools/9479064",
-      "location": "Menlo Park, CA, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Standard Template Labs",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager/8032497",
-      "location": "New York, NY, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "Vuori",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9784733",
-      "location": "Carlsbad, CA, USA",
-      "posted": "Reposted 3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Senior Associate, Product Manager - Debit Experiences",
-      "company": "Capital One",
-      "level": "Senior",
-      "link": "https://builtin.com/job/senior-associate-product-manager-debit-experiences/10139118",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
-      "posted": "Reposted 2 Days Ago",
-      "source": "Built In",
-      "summary": "Capital One is hiring for a Senior Associate, Product Manager - Debit Experiences in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, Agentic AI Infrastructure",
-      "company": "DigitalOcean",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-ai-product-manager/8132449",
-      "location": "Seattle, WA, USA",
-      "posted": "Reposted 2 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager II, Customer Experience & Social Technology Platform",
-      "company": "EchoStar",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-ii-customer-experience-social-technology-platform/9789257",
-      "location": "Englewood, CO, USA",
-      "posted": "Reposted 2 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Imprivata",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager/9745843",
-      "location": "Waltham, MA, USA",
-      "posted": "Reposted 2 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, Profile & Media Partner Experience",
-      "company": "Snap Inc.",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-profile-media-partner-experience/9998908",
+      "link": "https://builtin.com/job/product-manager/10212302",
       "location": "Los Angeles, CA, USA",
-      "posted": "Reposted 2 Days Ago",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "NBCUniversal is hiring for a Remote Product Manager in Los Angeles, CA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Principal Inbound Product Manager - AI Assistant (Employee Experience)- MoveWorks",
+      "company": "ServiceNow",
+      "level": "Principal",
+      "link": "https://builtin.com/job/principal-inbound-product-manager-ai-assistant-employee-experience-moveworks/10226511",
+      "location": "Mountain View, CA, USA",
+      "posted": "Yesterday",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Associate Product Manager – Hybrid - Towson, MD or Valley City, OH",
-      "company": "Stanley Black & Decker, Inc.",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager-hybrid-towson-md-or-valley-city-oh/9799923",
-      "location": "Towson, MD, USA",
-      "posted": "Reposted 2 Days Ago",
+      "role": "Principal Inbound Product Manager - MoveWorks - Enterprise Search Platform",
+      "company": "ServiceNow",
+      "level": "Principal",
+      "link": "https://builtin.com/job/principal-inbound-product-manager-moveworks-enterprise-search-platform/10226590",
+      "location": "Mountain View, CA, USA",
+      "posted": "Yesterday",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
+      "category": "Full-Time PM Roles"
     },
     {
-      "role": "Associate Product Manager",
-      "company": "CDK Global",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9588992",
-      "location": "Austin, TX, USA; Portland, OR, USA",
-      "posted": "Reposted 18 Days Ago",
+      "role": "Sr Staff Inbound Product Manager — Supply Chain Operations",
+      "company": "ServiceNow",
+      "level": "Staff",
+      "link": "https://builtin.com/job/sr-staff-inbound-product-manager-supply-chain-operations/10226192",
+      "location": "San Diego, CA, USA",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "ServiceNow is hiring for a Sr Staff Inbound Product Manager — Supply Chain Operations in San Diego, CA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr Staff Product Manager - Cross-APEX Licensing and Entitlement",
+      "company": "ServiceNow",
+      "level": "Staff",
+      "link": "https://builtin.com/job/sr-staff-product-manager-cross-apex-licensing-and-entitlement/10229798",
+      "location": "Kirkland, WA, USA",
+      "posted": "Yesterday",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager – Integration Security & AI Gateway",
+      "company": "ServiceNow",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-product-manager-integration-security-ai-gateway/10226191",
+      "location": "Santa Clara, CA, USA",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Frontline Strategist (Product Manager), FDE",
+      "company": "WorkWhile",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/frontline-strategist-product-manager-fde/10222759",
+      "location": "Toronto, ON, CAN; Seattle, WA, USA; New York, NY, USA; San Francisco, CA, USA",
+      "posted": "Yesterday",
+      "source": "Built In",
+      "summary": "WorkWhile is hiring for a Frontline Strategist (Product Manager), FDE in Toronto, ON, CAN. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Accounting Product Manager- Alternatives",
@@ -553,7 +179,7 @@
       "level": "Not specified",
       "link": "https://builtin.com/job/accounting-product-manager-alternatives/9511617",
       "location": "Boise, ID, USA; Block Noida Authority Office, Sector 6, Gautam Buddha Nagar, Uttar Pradesh, IND",
-      "posted": "Reposted 16 Hours Ago",
+      "posted": "Reposted Yesterday",
       "source": "Built In",
       "summary": "Clearwater Analytics (CWAN) is hiring for a Accounting Product Manager- Alternatives in Boise, ID, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
@@ -564,9 +190,20 @@
       "level": "Not specified",
       "link": "https://builtin.com/job/product-manager-ecosystem/9507066",
       "location": "San Jose, CA, USA; Los Angeles, CA, USA",
-      "posted": "Reposted 16 Hours Ago",
+      "posted": "Reposted Yesterday",
       "source": "Built In",
       "summary": "FloQast is hiring for a Product Manager, Ecosystem in San Jose, CA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager",
+      "company": "Onebrief",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-product-manager/10075345",
+      "location": "United States",
+      "posted": "Reposted Yesterday",
+      "source": "Built In",
+      "summary": "Onebrief is hiring for a Remote Staff Product Manager in United States. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
@@ -575,9 +212,317 @@
       "level": "Not specified",
       "link": "https://builtin.com/job/product-manager-ads-format/10031793",
       "location": "Seattle, WA, USA; Bellevue, WA, USA; Palo Alto, CA, USA; Los Angeles, CA, USA",
-      "posted": "Reposted 16 Hours Ago",
+      "posted": "Reposted Yesterday",
       "source": "Built In",
       "summary": "Snap Inc. is hiring for a Product Manager, Ads Format in Seattle, WA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "Ecolab",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/9719736",
+      "location": "Naperville, IL, USA",
+      "posted": "Reposted 9 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager - Hybrid",
+      "company": "Owens & Minor",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/product-manager-alpharetta-ga-onsite/8743320",
+      "location": "Alpharetta, GA, USA",
+      "posted": "Reposted 9 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "TruVideo, Inc",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/9160618",
+      "location": "Wellesley, MA, USA",
+      "posted": "Reposted 8 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "Axos Bank",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/9160868",
+      "location": "San Diego, CA, USA",
+      "posted": "Reposted 7 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "Dynabrade, Inc.",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/9997222",
+      "location": "Clarence, NY, USA",
+      "posted": "Reposted 7 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager, Dictionary Media Group",
+      "company": "IXL Learning",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager-dictionary-media-group/8663497",
+      "location": "San Mateo, CA, USA",
+      "posted": "Reposted 6 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager, Rosetta Stone",
+      "company": "IXL Learning",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager-rosetta-stone/8663509",
+      "location": "San Mateo, CA, USA",
+      "posted": "Reposted 6 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "IXL Associate Product Manager",
+      "company": "IXL Learning",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/ixl-associate-product-manager/8663496",
+      "location": "San Mateo, CA, USA",
+      "posted": "Reposted 6 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager - Benefits",
+      "company": "Niural Inc.",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager-benefits/9755209",
+      "location": "New York City, NY, USA",
+      "posted": "Reposted 5 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "BJ's Wholesale Club",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/9780901",
+      "location": "Marlborough, MA, USA",
+      "posted": "Reposted 4 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Principal Product Manager, Commerce",
+      "company": "Rockstar Games",
+      "level": "Principal",
+      "link": "https://builtin.com/job/associate-principal-product-manager-commerce/8681751",
+      "location": "Manhattan, NY, USA",
+      "posted": "Reposted 4 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "Vuori",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager/9784733",
+      "location": "Carlsbad, CA, USA",
+      "posted": "Reposted 4 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Senior Associate, Product Manager - Debit Experiences",
+      "company": "Capital One",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-associate-product-manager-debit-experiences/10139118",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
+      "posted": "Reposted 3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager – Hybrid - Towson, MD or Valley City, OH",
+      "company": "Stanley Black & Decker, Inc.",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager-hybrid-towson-md-or-valley-city-oh/9799923",
+      "location": "Towson, MD, USA",
+      "posted": "Reposted 3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Mobile Product Manager",
+      "company": "Aspen One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/mobile-product-manager/10206184",
+      "location": "Basalt, CO, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Consumer Decision",
+      "company": "CarGurus",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-decision/8556990",
+      "location": "Boston, MA, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Associate - Product Manager",
+      "company": "New York Life Insurance Company",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-associate-product-manager/8446777",
+      "location": "New York, NY, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Product Manager, Cards",
+      "company": "Rain",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-cards/9187287",
+      "location": "New York, NY, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, New Industries",
+      "company": "Rundoo",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-new-industries/9187907",
+      "location": "Redwood City, CA, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "SailPoint",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager/10154802",
+      "location": "United States; Austin, TX, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Ads Product – Brand",
+      "company": "Snap Inc.",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-product-manager-ads-product-brand/9570213",
+      "location": "New York, NY, USA; Bellevue, WA, USA; Palo Alto, CA, USA; Los Angeles, CA, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Sonar",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager/8490587",
+      "location": "Austin, TX, USA",
+      "posted": "Reposted 2 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Data Services",
+      "company": "CoreWeave",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-product-manager-data-services/9005730",
+      "location": "Bellevue, WA, USA; New York, NY, USA; Livingston, NJ, USA; Sunnyvale, CA, USA",
+      "posted": "Reposted 16 Hours Ago",
+      "source": "Built In",
+      "summary": "CoreWeave is hiring for a Staff Product Manager, Data Services in Bellevue, WA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Core Services",
+      "company": "Justworks",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-core-services/8256953",
+      "location": "New York, NY, USA",
+      "posted": "Reposted 16 Hours Ago",
+      "source": "Built In",
+      "summary": "Justworks is hiring for a Product Manager, Core Services in New York, NY, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "Relay",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager-internal-tools-automation/8719832",
+      "location": "Raleigh, NC, USA",
+      "posted": "Reposted 16 Hours Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Staff Inbound Product Manager- AI",
+      "company": "ServiceNow",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-inbound-product-manager-ai/10036477",
+      "location": "Santa Clara, CA, USA",
+      "posted": "Reposted 16 Hours Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Ad Inventory",
+      "company": "Snap Inc.",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-product-manager-ad-inventory/9422020",
+      "location": "Bellevue, WA, USA; Palo Alto, CA, USA; Los Angeles, CA, USA",
+      "posted": "Reposted 16 Hours Ago",
+      "source": "Built In",
+      "summary": "Snap Inc. is hiring for a Staff Product Manager, Ad Inventory in Bellevue, WA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager - Mission Agents",
+      "company": "Vannevar",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-mission-agents/9217772",
+      "location": "USA",
+      "posted": "Reposted 16 Hours Ago",
+      "source": "Built In",
+      "summary": "Vannevar is hiring for a Remote Product Manager - Mission Agents in USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
@@ -586,7 +531,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/9296610",
       "location": "Houston, TX, USA",
-      "posted": "Reposted 15 Days Ago",
+      "posted": "Reposted 16 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -597,7 +542,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager-ai-first/9615729",
       "location": "New York, NY, USA",
-      "posted": "Reposted 15 Days Ago",
+      "posted": "Reposted 16 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -608,21 +553,54 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/9036473",
       "location": "Camarillo, CA, USA",
-      "posted": "Reposted 15 Days Ago",
+      "posted": "Reposted 16 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
     },
     {
-      "role": "Associate Product Manager",
-      "company": "Relay (relaypro.com)",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager-internal-tools-automation/8722199",
-      "location": "Raleigh, NC, USA",
-      "posted": "Reposted 15 Days Ago",
+      "role": "Product Manager, GTM Automation",
+      "company": "Block",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-gtm-automation/9610550",
+      "location": "Not specified",
+      "posted": "Reposted 15 Hours Ago",
+      "source": "Built In",
+      "summary": "Block is hiring for a Remote Product Manager, GTM Automation in CA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager II, AI & Data Security",
+      "company": "Datadog",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-ii-ai-data-security/9613851",
+      "location": "New York, NY, USA; Boston, MA, USA",
+      "posted": "Reposted 15 Hours Ago",
+      "source": "Built In",
+      "summary": "Datadog is hiring for a Product Manager II, AI & Data Security in New York, NY, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Revenue Cycle Management",
+      "company": "GoodRx",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-revenue-cycle-management/9251294",
+      "location": "USA",
+      "posted": "Reposted 15 Hours Ago",
+      "source": "Built In",
+      "summary": "GoodRx is hiring for a Remote Product Manager, Revenue Cycle Management in USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Hex",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager/7391544",
+      "location": "San Francisco, CA, USA",
+      "posted": "Reposted 15 Hours Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Associate Product Manager, GP Portfolio Monitoring",
@@ -630,7 +608,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager-gp-portfolio-monitoring/8360196",
       "location": "Brooklyn, New York, NY, USA",
-      "posted": "Reposted 13 Days Ago",
+      "posted": "Reposted 14 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -641,18 +619,18 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/8598633",
       "location": "New York, NY, USA",
-      "posted": "Reposted 13 Days Ago",
+      "posted": "Reposted 14 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
     },
     {
       "role": "Associate Product Manager",
-      "company": "Mastery Logistics Systems",
+      "company": "Menasha Corporation",
       "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9365927",
-      "location": "Omaha, NE, USA; Chicago, IL, USA; Minneapolis, MN, USA",
-      "posted": "Reposted 12 Days Ago",
+      "link": "https://builtin.com/job/product-manager/9650131",
+      "location": "Oconomowoc, WI, USA",
+      "posted": "Reposted 13 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -663,7 +641,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/9366537",
       "location": "Lakewood, CO, USA",
-      "posted": "Reposted 11 Days Ago",
+      "posted": "Reposted 12 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -674,7 +652,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/9674144",
       "location": "United States",
-      "posted": "Reposted 11 Days Ago",
+      "posted": "Reposted 12 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -685,7 +663,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/9388437",
       "location": "Dallas, TX, USA; Chicago, IL, USA; Alpharetta, GA, USA",
-      "posted": "Reposted 10 Days Ago",
+      "posted": "Reposted 11 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -696,6 +674,17 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager-temporary/9693622",
       "location": "Englewood Cliffs, NJ, USA",
+      "posted": "Reposted 11 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager - Expansion",
+      "company": "Stanley Black & Decker, Inc.",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/associate-product-manager-expansion/10043253",
+      "location": "Towson, MD, USA",
       "posted": "Reposted 10 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
@@ -707,7 +696,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-us-card-core-platforms-servicing/10122949",
       "location": "McLean, VA, USA; Chicago, IL, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "7 Days Ago",
+      "posted": "8 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -718,7 +707,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-enterprise-services/10123036",
       "location": "McLean, VA, USA; Chicago, IL, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "7 Days Ago",
+      "posted": "8 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -729,7 +718,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-global-payment-network/10122985",
       "location": "McLean, VA, USA; Chicago, IL, USA; Richmond, VA, USA; Riverwoods, IL, USA",
-      "posted": "7 Days Ago",
+      "posted": "8 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -740,7 +729,18 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-small-business-bank/10123039",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "7 Days Ago",
+      "posted": "8 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Associate Product Manager, Gov't & Military",
+      "company": "HEICO",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/product-manager-gov-t-military/10114197",
+      "location": "Hauppauge, NY, USA",
+      "posted": "8 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -751,10 +751,21 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/10113508",
       "location": "Waukegan, IL, USA; Kenosha, WI, USA; Glenview, IL, USA; Milwaukee, WI, USA",
-      "posted": "7 Days Ago",
+      "posted": "8 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
+    },
+    {
+      "role": "Senior Lead Digital Product Manager",
+      "company": "Wells Fargo",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-lead-digital-product-manager/10232899",
+      "location": "Minneapolis, MN, USA",
+      "posted": "7 Hours Ago",
+      "source": "Built In",
+      "summary": "Wells Fargo is hiring for a Senior Lead Digital Product Manager in Minneapolis, MN, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Senior Associate Product Manager - Data, Models, Decisioning & Credit",
@@ -762,7 +773,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-data-models-decisioning-credit/10139167",
       "location": "McLean, VA, USA; Chicago, IL, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "6 Days Ago",
+      "posted": "7 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -773,7 +784,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-business-cards-payments/10139169",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "6 Days Ago",
+      "posted": "7 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -784,7 +795,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-fraud-workflows/10139132",
       "location": "McLean, VA, USA; New York, NY, USA",
-      "posted": "6 Days Ago",
+      "posted": "7 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -795,7 +806,7 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-associate-product-manager-premium-products/10139121",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "6 Days Ago",
+      "posted": "7 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -806,7 +817,7 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/10129149",
       "location": "San Francisco, CA, USA",
-      "posted": "6 Days Ago",
+      "posted": "7 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
@@ -817,32 +828,10 @@
       "level": "Senior",
       "link": "https://builtin.com/job/senior-manager-product-manager-small-business-bank-associate-servicing/10146296",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "5 Days Ago",
+      "posted": "6 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
-    },
-    {
-      "role": "Sr. Software Product Manager",
-      "company": "Chamberlain Group",
-      "level": "Senior",
-      "link": "https://builtin.com/job/sr-software-product-manager/10158611",
-      "location": "Oak Brook, IL, USA",
-      "posted": "3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager II",
-      "company": "Garner Health",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-ii/10155102",
-      "location": "New York, NY, USA",
-      "posted": "3 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
     },
     {
       "role": "Associate Product Manager",
@@ -850,10 +839,263 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager/10157405",
       "location": "Chicago, IL, USA",
+      "posted": "4 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Manager, Product Management - Workforce & Intelligent Routing Data Product Manager",
+      "company": "Capital One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/manager-product-management-workforce-intelligent-routing-data-product-manager/10183219",
+      "location": "McLean, VA, USA; Chicago, IL, USA; Richmond, VA, USA; New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Manager, Product Manager - Activities, Emerging Verticals - Capital One Travel",
+      "company": "Capital One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/manager-product-manager-activities-emerging-verticals-capital-one-travel/10183233",
+      "location": "McLean, VA, USA; New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Manager, Product Manager - Hotels Tax & Compliance, Capital One Travel",
+      "company": "Capital One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/manager-product-manager-hotels-tax-compliance-capital-one-travel/10183192",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Manager, Product Manager - Incentive Platform",
+      "company": "Capital One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/manager-product-manager-incentive-platform/10183217",
+      "location": "McLean, VA, USA; New York, NY, USA; Wilmington, DE, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Manager, Product Manager - UX/UI & Merchandising | Cars, Capital One Travel",
+      "company": "Capital One",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/manager-product-manager-ux-ui-merchandising-cars-capital-one-travel/10183245",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Associate, Product Manager - Card Site Team",
+      "company": "Capital One",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-associate-product-manager-card-site-team/10183191",
+      "location": "McLean, VA, USA; Chicago, IL, USA; New York, NY, USA",
       "posted": "3 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
+    },
+    {
+      "role": "Senior Manager, Product Manager-Small Business Bank Digital Servicing",
+      "company": "Capital One",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-manager-product-manager-small-business-bank-digital-servicing/10183254",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager II - Developer Engagement",
+      "company": "Datadog",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-ii-developer-engagement/10182894",
+      "location": "New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Observability Data Platforms",
+      "company": "Datadog",
+      "level": "Staff",
+      "link": "https://builtin.com/job/staff-product-manager-observability-data-platforms/10188035",
+      "location": "New York, NY, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Checkout Experience",
+      "company": "Klaviyo",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-checkout-experience/10182582",
+      "location": "Boston, MA, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Digital Product Manager Senior - PNC.com Retail Experience Strategy",
+      "company": "PNC Bank",
+      "level": "Senior",
+      "link": "https://builtin.com/job/digital-product-manager-senior-pnc-com-retail-experience-strategy/10192550",
+      "location": "Pittsburgh, PA, USA",
+      "posted": "3 Days Ago",
+      "source": "Built In",
+      "summary": "(Open the Built In link for the full description.)",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Associate Product Manager, Integrations",
+      "company": "Agave",
+      "level": "Entry / Associate",
+      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-integrations-at-agave-4441139288",
+      "location": "San Francisco, CA",
+      "posted": "2026-07-17",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Product Manager, Core Agents",
+      "company": "Asana",
+      "level": "Senior (4-6 yrs)",
+      "link": "https://asana.com/jobs/apply/8070622?gh_jid=8070622",
+      "location": "San Francisco",
+      "posted": "2026-07-17",
+      "source": "Company (Greenhouse)",
+      "summary": "We're looking for a Product Manager to lead the Core Agents team in San Francisco. In this role, you will define and build Asana AI agents that plan, execute, and coordinate work directly inside Asana's work graph. Your mission is to make agents that act reliably, safely, and usefully on behalf of teams, helping Asana...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Fluidstack",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-fluidstack-4441151794",
+      "location": "Austin, TX",
+      "posted": "2026-07-17",
+      "source": "LinkedIn",
+      "summary": "About Fluidstack We exist to make humanity more free. For most of human history, you farmed or you starved. Technology gave people more time for the things they wanted to do, instead of things they had to do. Powerful AI will be the biggest lever for human choice we've ever built - but only if models are aligned with...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager - Associate Product Management Specialist",
+      "company": "Minnesota Department of Employment and Economic Development",
+      "level": "Entry / Associate",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-associate-product-management-specialist-at-minnesota-department-of-employment-and-economic-development-4441154844",
+      "location": "St Paul, MN",
+      "posted": "2026-07-17",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Product Owner / App Manager m/w/d",
+      "company": "prettyTELCO GmbH",
+      "level": "Not specified",
+      "link": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/product-owner-app-manager-reken-66367",
+      "location": "Reken",
+      "posted": "2026-07-17",
+      "source": "Arbeitnow",
+      "summary": "Was prettyTELCO von anderen Personalvermittlungen abhebt, ist unser Fokus auf die Vermittlung von Menschen, die nicht nur fachlich qualifiziert sind, sondern auch menschlich perfekt ins Unternehmen passen. 🤝🏻 Wir agieren deutschlandweit innerhalb der Telekommunikationsbranche und legen großen Wert auf einen...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Games Ecosystem",
+      "company": "Reddit",
+      "level": "Staff",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8060091",
+      "location": "Remote - United States",
+      "posted": "2026-07-17",
+      "source": "Company (Greenhouse)",
+      "summary": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Technical Product Manager, Ads ML Platform",
+      "company": "Reddit",
+      "level": "Staff",
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
+      "location": "Remote - United States",
+      "posted": "2026-07-17",
+      "source": "Company (Greenhouse)",
+      "summary": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Principal Product Manager",
+      "company": "Twilio",
+      "level": "Principal",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/7851194",
+      "location": "Remote - US",
+      "posted": "2026-07-17",
+      "source": "Company (Greenhouse)",
+      "summary": "Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work ,...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager - Enterprise AI",
+      "company": "Twilio",
+      "level": "Staff",
+      "link": "https://job-boards.greenhouse.io/twilio/jobs/7918885",
+      "location": "Remote - US",
+      "posted": "2026-07-17",
+      "source": "Company (Greenhouse)",
+      "summary": "Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work ,...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager II, Help Center Platform",
+      "company": "Uber",
+      "level": "Mid-level (2-3 yrs)",
+      "link": "https://www.themuse.com/jobs/uber/product-manager-ii-help-center-platform",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "posted": "2026-07-17",
+      "source": "The Muse",
+      "summary": "About the Role As a Product Manager on the Customer Obsession (CO) team, you will be responsible for improving the developer and user experience for Uber's AI-powered conversational support surfaces. This role bridges the gap between the underlying tech and intuitive user design. You will be responsible for the UX and...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager - Delivery Experience",
+      "company": "Uber",
+      "level": "Senior",
+      "link": "https://www.themuse.com/jobs/uber/sr-product-manager-delivery-experience",
+      "location": "New York, NY; San Francisco, CA; Seattle, WA",
+      "posted": "2026-07-17",
+      "source": "The Muse",
+      "summary": "About the Role Uber Eats is looking for a Product Manager to lead Consumer Fulfillment Quality, a critical area focused on making every order more reliable, predictable, and trustworthy for eaters.. Delivery quality is core to how consumers experience Uber Eats: whether an order can be completed, completed on time,...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Management Intern (Summer 2027)",
+      "company": "Databricks",
+      "level": "Internship",
+      "link": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002?gh_jid=6883068002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "P-982 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers...",
+      "category": "PM Internships"
     },
     {
       "role": "Product Owner Internship",
@@ -867,6 +1109,83 @@
       "category": "PM Internships"
     },
     {
+      "role": "Apple Pay Product Manager",
+      "company": "Apple",
+      "level": "Senior+ (8+ yrs)",
+      "link": "https://www.themuse.com/jobs/apple/apple-pay-product-manager-35a5fa",
+      "location": "Cupertino, CA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "This role will be responsible for developing product features, identifying opportunities, and designing solutions to enable innovative commerce experiences with Apple Pay. You will work with a cross-functional team to execute the strategies you create. The Apple Pay team is experiencing rapid growth, expanding into...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, App Publishing and Optimization Tools",
+      "company": "Apple",
+      "level": "Senior+ (7+ yrs)",
+      "link": "https://www.themuse.com/jobs/apple/product-manager-app-publishing-and-optimization-tools-73c6be",
+      "location": "Cupertino, CA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "Apple's app ecosystem has helped creators, dreamers, and learners of all ages and backgrounds build a brighter future and a better world with their innovative apps. Apple's ongoing investments in a wide range of tools, technologies, and services to build high-quality apps, reach Apple users globally, and seamlessly...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Music Publishing - Apple TV & Video",
+      "company": "Apple",
+      "level": "Senior (4-6 yrs)",
+      "link": "https://www.themuse.com/jobs/apple/product-manager-music-publishing-apple-tv-video-49c71a",
+      "location": "Culver City, CA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "Apple has always been about more than technology. We don't just build products, we create experiences that change the way we live, work, create, and connect! We believe in the power of simplicity, the beauty of creativity, and that great products are born when technology and art intersect. The Music Publishing...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, watchOS",
+      "company": "Apple",
+      "level": "Senior (4-6 yrs)",
+      "link": "https://www.themuse.com/jobs/apple/product-manager-watchos",
+      "location": "Cupertino, CA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. When you bring passion, dedication, teamwork, and a sense of ownership to your job, there's no telling what you can accomplish! As a member of our Worldwide Product Marketing...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Product Manager, Commerce Data Foundations Platform",
+      "company": "Apple",
+      "level": "Senior",
+      "link": "https://www.themuse.com/jobs/apple/senior-product-manager-commerce-data-foundations-platform-14019a",
+      "location": "Cupertino, CA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "If you would like to apply, please submit your resume and a well-edited cover letter showing how you meet or exceed each minimum and preferred qualification. Imagine what you can do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Technical Product Manager - Services Pricing Platform",
+      "company": "Apple",
+      "level": "Senior (4-6 yrs)",
+      "link": "https://www.themuse.com/jobs/apple/technical-product-manager-services-pricing-platform-0d7e70",
+      "location": "Cupertino, CA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "Imagine what you can do here! At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. The Apple Services Engineering team is one of the most exciting examples of Apple's long-held passion for combining art and technology - these are the people who power the App...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Rules Experience",
+      "company": "Asana",
+      "level": "Senior (4-6 yrs)",
+      "link": "https://asana.com/jobs/apply/8070671?gh_jid=8070671",
+      "location": "San Francisco",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "We’re looking for a Product Manager to lead the Rules Experience team in San Francisco. In this role, you will help own and evolve Asana’s workflow automation stack end-to-end: from the AI that makes workflows intelligent, to the systems that ensure reliability and governance, to the delightful product experiences...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Staff Product Manager, Resource Management & Client Management Enterprise",
       "company": "Asana",
       "level": "Staff",
@@ -878,14 +1197,212 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Staff Technical Product Manager, Ads ML Platform",
-      "company": "Reddit",
-      "level": "Staff",
-      "link": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
-      "location": "Remote - United States",
+      "role": "Principal Product Manager - Asset Platform (Hybrid)",
+      "company": "CrowdStrike",
+      "level": "Principal",
+      "link": "https://www.themuse.com/jobs/crowdstrike/principal-product-manager-asset-platform-hybrid",
+      "location": "Boston, MA; New York, NY",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn't changed - we're here to stop breaches, and we've redefined modern security with the world's most advanced AI-native platform. We work on large scale...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Associate Product Manager, New Grad (2027 Start)",
+      "company": "Databricks",
+      "level": "Entry / Associate",
+      "link": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002?gh_jid=7586263002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
       "posted": "2026-07-16",
       "source": "Company (Greenhouse)",
-      "summary": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily...",
+      "summary": "P-1336 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers...",
+      "category": "Associate PM Roles"
+    },
+    {
+      "role": "Sr Product Manager, Employee Experience",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/integration-data-engineering-and-applications/sr-product-manager-employee-experience-8203285002?gh_jid=8203285002",
+      "location": "Mountain View, California; San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "Sr Product Manager, Employee Experience Location: San Francisco, CA or Mountain View, CA&nbsp; GAQ426R322 About Databricks At Databricks, our mission is to help data teams solve the world’s toughest problems and that starts with empowering our own employees. The Databricks IT organization is a product-led team that...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager - Technical",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager---technical-8387085002?gh_jid=8387085002",
+      "location": "New York City, New York",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ427R180 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager, Compute Platform",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-compute-platform-8200462002?gh_jid=8200462002",
+      "location": "San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ127R236 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager, Data Engineering",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-data-engineering-6322654002?gh_jid=6322654002",
+      "location": "San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "P-8 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager, Data Governance",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-data-governance-7863365002?gh_jid=7863365002",
+      "location": "San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ226R497 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager, Databricks AI",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-databricks-ai-8136204002?gh_jid=8136204002",
+      "location": "Seattle, Washington",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ127R47 At Databricks, we are passionate about enabling every organization to harness the power of data and AI. Our mission is to build the best platform for developing, deploying, and operating AI applications at scale—so customers can use intelligence to transform their businesses. More about the Team: The...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager, Databricks Free Edition",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-databricks-free-edition-7680573002?gh_jid=7680573002",
+      "location": "San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ126R51 Mission At Databricks, we’re on a mission to help data teams solve the world’s toughest problems. The Databricks Free Edition makes it easy for students, enthusiasts, and aspiring professionals to explore data and AI hands-on, gaining the skills and confidence to build the future. We’re looking for a Senior...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Product Manager, Databricks Repos",
+      "company": "Databricks",
+      "level": "Senior",
+      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-databricks-repos-8326570002?gh_jid=8326570002",
+      "location": "Seattle, Washington",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ427R130 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Agentic AI Applications",
+      "company": "Databricks",
+      "level": "Staff",
+      "link": "https://www.databricks.com/company/careers/integration-data-engineering-and-applications/staff-product-manager-agentic-ai-applications-8560772002?gh_jid=8560772002",
+      "location": "Mountain View, California; San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "Location: San Francisco or Mountain View, California GAQ327R225 Databricks is building an Agentic Enterprise applications Platform a scalable, governed AI application platform built on Databricks that enables any internal team (GTM, Finance, HR, Legal, Product) to build production grade agentic applications in weeks,...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, AI Platform",
+      "company": "Databricks",
+      "level": "Staff",
+      "link": "https://www.databricks.com/company/careers/product/staff-product-manager-ai-platform-8420609002?gh_jid=8420609002",
+      "location": "San Francisco, California",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ427R276 Location: San Francisco or Seattle At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Security",
+      "company": "Databricks",
+      "level": "Staff",
+      "link": "https://www.databricks.com/company/careers/product/staff-product-manager-security-7110509002?gh_jid=7110509002",
+      "location": "Seattle, Washington",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "P-1016 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager, Serverless Workspaces",
+      "company": "Databricks",
+      "level": "Staff",
+      "link": "https://www.databricks.com/company/careers/product/staff-product-manager-serverless-workspaces-8427954002?gh_jid=8427954002",
+      "location": "Seattle, Washington",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "RDQ427R275 Location: San Francisco or Seattle&nbsp; At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Product Manager, Scaled Abuse",
+      "company": "Discord",
+      "level": "Senior",
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8581126002",
+      "location": "San Francisco Bay Area",
+      "posted": "2026-07-16",
+      "source": "Company (Greenhouse)",
+      "summary": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Responsable Produit - Digital Substation Product Manager H/F",
+      "company": "GE Vernova",
+      "level": "Not specified",
+      "link": "https://www.themuse.com/jobs/gevernova/responsable-produit-digital-substation-product-manager-hf-25aeac",
+      "location": "Boston, MA",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Evergreen Private Fund Solutions - Assistant Vice President / Vice President",
+      "company": "iCapital",
+      "level": "VP / Head of Product",
+      "link": "https://www.themuse.com/jobs/icapital/product-manager-evergreen-private-fund-solutions-assistant-vice-president-vice-president",
+      "location": "Greenwich, CT; New York, NY",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "About the Role The market for alternative investments is undergoing a significant transformation, and iCapital is at the forefront, building the technology and service models that connect General Partners (GPs) with the high-net-worth market. We are launching a new, dedicated line of business to provide a...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Macy's",
+      "level": "Mid-Senior",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-macy-s-4417333810",
+      "location": "New York City Metropolitan Area",
+      "posted": "2026-07-16",
+      "source": "LinkedIn",
+      "summary": "Product Manager New York, NY, United States Full time Schedule $117,960 -$196,440 Annually* * based on job, location, and schedule Job Description Be part of an amazing story. Macy’s is more than just a store. We’re a story. One that’s captured the hearts and minds of America for more than 160 years. A story about...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Product Manager, Growth & Monetization",
+      "company": "Nanit",
+      "level": "Senior",
+      "link": "https://www.themuse.com/jobs/nanit/senior-product-manager-growth-monetization-c009a7",
+      "location": "New York, NY",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "About Nanit: Nanit is moving families beyond overwhelm by transforming how parents understand their baby's early years. We combine advanced AI, real-world data from billions of sleep hours, and clinical expertise to deliver the clarity and confidence every parent deserves. Trusted by over one million families and...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -911,6 +1428,28 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Product Manager (Dashboard)",
+      "company": "SpotOn",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-dashboard-at-spoton-4441675636",
+      "location": "Royal Oak, MI",
+      "posted": "2026-07-16",
+      "source": "LinkedIn",
+      "summary": "About SpotOn We’re not just building restaurant tech, we’re giving independent restaurants the tools to compete and win. From our award-winning point-of-sale to AI-powered profit tools, everything we do helps operators boost profit, work smarter, and keep their best people. And every solution is backed by real humans...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Senior Product Manager - Local Service-Content Product (Key POI Features)",
+      "company": "TikTok",
+      "level": "Senior",
+      "link": "https://www.themuse.com/jobs/tiktok/senior-product-manager-local-servicecontent-product-key-poi-features",
+      "location": "Not specified",
+      "posted": "2026-07-16",
+      "source": "The Muse",
+      "summary": "Responsibilities About the Team With the mission of \"Inspiring New Life and Helping Good Business\", Local Services is committed to becoming the most trusted local services platform for users and partners. In Local Services, through POI, Video, LIVE, Search, and other various products, services and roles related to...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Lead Product Manager Earner Growth Experience",
       "company": "Uber",
       "level": "Senior",
@@ -930,72 +1469,6 @@
       "posted": "2026-07-16",
       "source": "The Muse",
       "summary": "About the Role Uber Eats food delivery is one of the most used consumer applications globally, used by hundreds of millions of users every year and supporting over $75B in customer transacted funds. We're looking for an experienced PM to own the entire shopping experience for this product end-to-end, from users...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Sr. Product Manager - Consumer Fulfillment",
-      "company": "Uber",
-      "level": "Senior",
-      "link": "https://www.themuse.com/jobs/uber/sr-product-manager-consumer-fulfillment",
-      "location": "New York, NY; San Francisco, CA; Seattle, WA",
-      "posted": "2026-07-16",
-      "source": "The Muse",
-      "summary": "About the Role Uber Eats is looking for a Product Manager to lead Consumer Fulfillment Quality, a critical area focused on making every order more reliable, predictable, and trustworthy for eaters.. Delivery quality is core to how consumers experience Uber Eats: whether an order can be completed, completed on time,...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager ( eDiscovery Tools ), G&A Solutions Engineering (GSE)",
-      "company": "Apple",
-      "level": "Senior+ (7+ yrs)",
-      "link": "https://www.themuse.com/jobs/apple/product-manager-ediscovery-tools-ga-solutions-engineering-gse",
-      "location": "Cupertino, CA",
-      "posted": "2026-07-15",
-      "source": "The Muse",
-      "summary": "The Legal and Global Security Solutions (LGS Solutions) team is seeking a Discovery Solution Manager to lead discovery technology transformation initiatives and be responsible for existing discovery platforms and solutions. This role requires strong, hands-on product management experience with discovery technologies,...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager - Experimentation Platform",
-      "company": "Apple",
-      "level": "Not specified",
-      "link": "https://www.themuse.com/jobs/apple/product-manager-experimentation-platform",
-      "location": "Cupertino, CA",
-      "posted": "2026-07-15",
-      "source": "The Muse",
-      "summary": "At Apple, we focus deeply on our customers' experience. Apple Ads brings this same approach to advertising, helping people find exactly what they're looking for and helping advertisers grow their businesses. Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, and MLS...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, Apple Ads Campaign Optimization",
-      "company": "Apple",
-      "level": "Mid-level (2-3 yrs)",
-      "link": "https://www.themuse.com/jobs/apple/product-manager-apple-ads-campaign-optimization-847f56",
-      "location": "Cupertino, CA",
-      "posted": "2026-07-15",
-      "source": "The Muse",
-      "summary": "At Apple, we focus deeply on our customers' experience. Apple Ads brings this same approach to advertising, helping people find exactly what they're looking for and helping advertisers grow their businesses. Our technology powers ads and sponsorships across Apple Services, including the App Store, Apple News, and MLS...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager - Apple Cloud Infrastructure",
-      "company": "Apple",
-      "level": "Senior",
-      "link": "https://www.themuse.com/jobs/apple/senior-product-manager-apple-cloud-infrastructure-3c3992",
-      "location": "Cupertino, CA",
-      "posted": "2026-07-15",
-      "source": "The Muse",
-      "summary": "Imagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. We are building out a multi-cloud platform that will power Apple's key services...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Technical Product Manager, Platform, Apple Store Online",
-      "company": "Apple",
-      "level": "Senior+ (7+ yrs)",
-      "link": "https://www.themuse.com/jobs/apple/technical-product-manager-platform-apple-store-online-7bffb0",
-      "location": "Sunnyvale, CA",
-      "posted": "2026-07-15",
-      "source": "The Muse",
-      "summary": "Imagine what you could do here! The people here at Apple don't just create products - they build the kind of wonder that's revolutionized entire industries. It's the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1021,17 +1494,6 @@
       "category": "Associate PM Roles"
     },
     {
-      "role": "Sr. Product Manager, Databricks Repos",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-databricks-repos-8326570002?gh_jid=8326570002",
-      "location": "Seattle, Washington",
-      "posted": "2026-07-15",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ427R130 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Paralegal/ Legal Product Manager",
       "company": "Fidelity Investments",
       "level": "Senior+ (10+ yrs)",
@@ -1040,6 +1502,17 @@
       "posted": "2026-07-15",
       "source": "The Muse",
       "summary": "Job Description: Note: Fidelity will not provide immigration sponsorship for this position The Role As a paralegal in Fidelity's Legal Department, you will be part of a centralized team supporting Litigation, Regulatory, and Employment attorneys across a broad range of matters, including litigation, arbitration,...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Gartner",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-gartner-4439988729",
+      "location": "Fort Myers, FL",
+      "posted": "2026-07-15",
+      "source": "LinkedIn",
+      "summary": "About this role: We are searching for a Product Manager who thrives in a fast-paced, innovative environment looking to solve complex problems with sophisticated and innovative solutions. In this role within the Global Sales & Services Technology (GSST) team, you will be supporting Salesforce enhancements in the...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1068,22 +1541,11 @@
       "role": "Product Manager",
       "company": "Instagram",
       "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-instagram-4197550638",
-      "location": "Bellevue, WA",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-instagram-4199410451",
+      "location": "Seattle, WA",
       "posted": "2026-07-15",
       "source": "LinkedIn",
       "summary": "Meta Product Managers work with cross-functional teams of engineers, designers, data scientists and researchers to build products. We are looking for Product Managers who value moving quickly. Product Manager Responsibilities: Responsible for leading a product area defining success metrics, prioritizing product...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Director of Product Management (Compliance Products)",
-      "company": "J. J. Keller & Associates, Inc.",
-      "level": "Director",
-      "link": "https://www.themuse.com/jobs/jjkellerassociatesinc/director-of-product-management-compliance-products",
-      "location": "Flexible / Remote; Neenah, WI",
-      "posted": "2026-07-15",
-      "source": "The Muse",
-      "summary": "Requisition #: 20789 Functional Area: Product Management; Leadership; Manufacturing; Purchasing; Supply Chain Employment Type: Full-Time Work Options: In Office / Partial Remote from Neenah/Appleton/Oshkosh area #LI-Hybrid Work Hours: Standard Business Hours Position Summary Lead the future of compliance solutions....",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1107,6 +1569,17 @@
       "source": "The Muse",
       "summary": "Join Chase Offers to help deliver personalized offers that create value for customers and measurable outcomes for brands. You will shape the next generation of our offers platform and drive innovation across the digital shopping journey. As a Vice President, Product Manager within Chase Offers Ad Server, you help...",
       "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Associate Product Manager",
+      "company": "Kantar",
+      "level": "Entry / Associate",
+      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-at-kantar-4439963699",
+      "location": "New York, United States",
+      "posted": "2026-07-15",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "Associate PM Roles"
     },
     {
       "role": "Senior Product Manager",
@@ -1142,17 +1615,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Staff Product Manager - Enterprise AI",
-      "company": "Twilio",
-      "level": "Staff",
-      "link": "https://job-boards.greenhouse.io/twilio/jobs/7918885",
-      "location": "Remote - US",
-      "posted": "2026-07-15",
-      "source": "Company (Greenhouse)",
-      "summary": "Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work ,...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Product Manager, Paid Ads",
       "company": "USA TODAY Co.",
       "level": "Senior (4-6 yrs)",
@@ -1162,6 +1624,17 @@
       "source": "The Muse",
       "summary": "We are looking for a Product Manager who combines strong product management skills with meaningful experience in paid ads, AdTech, or digital advertising. You will lead strategic initiatives across our paid ads portfolio, helping thousands of SMB advertisers improve performance through AI-driven optimization,...",
       "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Summer 2027 Intern - Associate Product Manager (APM)",
+      "company": "Salesforce",
+      "level": "Internship",
+      "link": "https://www.linkedin.com/jobs/view/summer-2027-intern-associate-product-manager-apm-at-salesforce-4440369294",
+      "location": "San Francisco, CA",
+      "posted": "2026-07-14",
+      "source": "LinkedIn",
+      "summary": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. About Futureforce University Recruiting Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new...",
+      "category": "PM Internships"
     },
     {
       "role": "Senior Director, Product Management",
@@ -1189,8 +1662,8 @@
       "role": "Staff Product Manager",
       "company": "Brex",
       "level": "Staff",
-      "link": "https://www.brex.com/careers/8432702002?gh_jid=8432702002",
-      "location": "New York, New York, United States",
+      "link": "https://www.brex.com/careers/8432698002?gh_jid=8432698002",
+      "location": "San Francisco, California, United States",
       "posted": "2026-07-14",
       "source": "Company (Greenhouse)",
       "summary": "Why join us Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain...",
@@ -1216,28 +1689,6 @@
       "posted": "2026-07-14",
       "source": "Company (Greenhouse)",
       "summary": "Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, Agentic AI Applications",
-      "company": "Databricks",
-      "level": "Staff",
-      "link": "https://www.databricks.com/company/careers/integration-data-engineering-and-applications/staff-product-manager-agentic-ai-applications-8560772002?gh_jid=8560772002",
-      "location": "Mountain View, California; San Francisco, California",
-      "posted": "2026-07-14",
-      "source": "Company (Greenhouse)",
-      "summary": "Location: San Francisco or Mountain View, California GAQ327R225 Databricks is building an Agentic Enterprise applications Platform a scalable, governed AI application platform built on Databricks that enables any internal team (GTM, Finance, HR, Legal, Product) to build production grade agentic applications in weeks,...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Great Value Hiring",
-      "level": "Mid-Senior",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-great-value-hiring-4439862724",
-      "location": "United States",
-      "posted": "2026-07-14",
-      "source": "LinkedIn",
-      "summary": "Product Manager [$40 - $80/hour] Role Responsibilities Define and execute the product roadmap in collaboration with stakeholders and development teams Gather and prioritize customer requirements to ensure alignment with business objectives Own the end-to-end lifecycle of product features from ideation through launch...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1274,17 +1725,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Principal Product Manager",
-      "company": "Twilio",
-      "level": "Principal",
-      "link": "https://job-boards.greenhouse.io/twilio/jobs/7851194",
-      "location": "Remote - US",
-      "posted": "2026-07-14",
-      "source": "Company (Greenhouse)",
-      "summary": "Who we are&nbsp; At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to &nbsp;hundreds of thousands of businesses&nbsp; and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work ,...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Data Product Manager",
       "company": "YipitData",
       "level": "Senior",
@@ -1303,18 +1743,7 @@
       "location": "San Jose, CA",
       "posted": "2026-07-13",
       "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "PM Internships"
-    },
-    {
-      "role": "AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)",
-      "company": "TikTok",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/ai-product-manager-intern-tiktok-product-social-and-creation-2026-summer-bs-ms-at-tiktok-4287588499",
-      "location": "San Jose, CA",
-      "posted": "2026-07-13",
-      "source": "LinkedIn",
-      "summary": "Responsibilities Team Introduction: TikTok Product - Social and Creation team's goal is to provide the best user experiences to create, consume and enjoy content on TikTok. We are looking for passionate and innovative individuals to expand the boundaries of TikTok by shaping the future of social interaction and...",
+      "summary": "Responsibilities Team Introduction: TikTok's Content Ecosystem team is responsible for the health and prosperity of content users and creators to improve DAU in the long term. Our team deeply dives into the following fields: tracking the whole content ecosystem and finding potential challenges and opportunities;...",
       "category": "PM Internships"
     },
     {
@@ -1329,17 +1758,6 @@
       "category": "PM Internships"
     },
     {
-      "role": "Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)",
-      "company": "TikTok",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-intern-tiktok-product-content-ecosystem-2026-summer-bs-ms-at-tiktok-4379125881",
-      "location": "San Jose, CA",
-      "posted": "2026-07-13",
-      "source": "LinkedIn",
-      "summary": "Responsibilities TikTok's Content Ecosystem team is responsible for the health and prosperity of content users and creators to improve DAU in the long term. Our team deeply dives into the following fields: tracking the whole content ecosystem and finding potential challenges and opportunities; cooperating closely with...",
-      "category": "PM Internships"
-    },
-    {
       "role": "Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)",
       "company": "TikTok",
       "level": "Internship",
@@ -1347,7 +1765,7 @@
       "location": "San Jose, CA",
       "posted": "2026-07-13",
       "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
+      "summary": "Responsibilities Team Introduction: Tako is an in-app AI chatbot incubated by TikTok Search. We are a global team which aims to provide users with access to the world's information and creative content. To Tako, evaluation is important as it helps assess the quality of AI-generated content, thereby improving users'...",
       "category": "PM Internships"
     },
     {
@@ -1362,10 +1780,10 @@
       "category": "PM Internships"
     },
     {
-      "role": "Product Manager Project Intern (GMPT Sales and Operations Management Platform) - 2026 Start (BS/ MS)",
+      "role": "Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)",
       "company": "TikTok",
       "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-project-intern-gmpt-sales-and-operations-management-platform-2026-start-bs-ms-at-tiktok-4389504472",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-intern-tiktok-live-ecosystem-governance-2026-summer-mba-at-tiktok-4304839074",
       "location": "San Jose, CA",
       "posted": "2026-07-13",
       "source": "LinkedIn",
@@ -1373,15 +1791,70 @@
       "category": "PM Internships"
     },
     {
-      "role": "Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)",
+      "role": "Product Manager Project Intern (GMPT Sales and Operations Management Platform) - 2026 Start (BS/ MS)",
       "company": "TikTok",
       "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-led-growth-product-manager-project-intern-product-lead-growth-2026-start-bs-ms-at-tiktok-4430610203",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-project-intern-gmpt-sales-and-operations-management-platform-2026-start-bs-ms-at-tiktok-4389504472",
       "location": "San Jose, CA",
       "posted": "2026-07-13",
       "source": "LinkedIn",
-      "summary": "Responsibilities TikTok's Product-Led-Growth team is focused on helping businesses of all sizes succeed through TikTok's advertising platform. Our mission is to drive scalable advertiser growth by building product experiences that make it easier, faster, and more effective for customers to onboard, activate, and grow...",
+      "summary": "Responsibilities Team Introduction: Our team is responsible for designing and optimizing the Client Incentive Platform, ensuring systematic policy formulation, execution, and performance tracking. We cover enterprise customers across the entire platform, handling short-term and long-term incentives in various business...",
       "category": "PM Internships"
+    },
+    {
+      "role": "Product Manager Project Intern (TikTok Ads Agent-Scaled Growth) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "level": "Internship",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-project-intern-tiktok-ads-agent-scaled-growth-2026-start-bs-ms-at-tiktok-4436543109",
+      "location": "San Jose, CA",
+      "posted": "2026-07-13",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "PM Internships"
+    },
+    {
+      "role": "Product Manager Project Intern (TikTok Product Content Ecosystem) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "level": "Internship",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-project-intern-tiktok-product-content-ecosystem-2026-start-bs-ms-at-tiktok-4435412093",
+      "location": "San Jose, CA",
+      "posted": "2026-07-13",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "PM Internships"
+    },
+    {
+      "role": "Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "level": "Internship",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-shop-ads-creative-project-intern-ads-interface-and-platform-2026-start-bs-ms-at-tiktok-4421486327",
+      "location": "San Jose, CA",
+      "posted": "2026-07-13",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "PM Internships"
+    },
+    {
+      "role": "Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）",
+      "company": "TikTok",
+      "level": "Internship",
+      "link": "https://www.linkedin.com/jobs/view/strategy-product-manager-project-intern-tiktok-platform-responsibility-2026-start-bs-ms%EF%BC%89-at-tiktok-4426242133",
+      "location": "San Jose, CA",
+      "posted": "2026-07-13",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "PM Internships"
+    },
+    {
+      "role": "Senior Product Manager, Credit & Pricing",
+      "company": "Affirm",
+      "level": "Senior",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7773691003",
+      "location": "Remote US",
+      "posted": "2026-07-13",
+      "source": "Company (Greenhouse)",
+      "summary": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. About the Product team&nbsp; The Product team listens to our customers’ needs and translates those insights into a clear product vision. The team...",
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Senior Product Manager, Agent Context",
@@ -1395,14 +1868,14 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Sr. Product Manager, Data Governance",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-data-governance-7863365002?gh_jid=7863365002",
-      "location": "San Francisco, California",
+      "role": "Product Owner",
+      "company": "EBizCharge",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-owner-at-ebizcharge-4402715117",
+      "location": "Irvine, CA",
       "posted": "2026-07-13",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ226R497 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1415,17 +1888,6 @@
       "source": "LinkedIn",
       "summary": "(Open the LinkedIn link for the full description.)",
       "category": "Associate PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Lucid Software",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-lucid-software-4401380113",
-      "location": "Raleigh, NC",
-      "posted": "2026-07-13",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Full-Time PM Roles"
     },
     {
       "role": "Group Product Manager, Verticals",
@@ -1502,17 +1964,6 @@
       "posted": "2026-07-13",
       "source": "The Muse",
       "summary": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Job Category Product Job Details About Salesforce Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Manager, Risk Data Product Manager",
-      "company": "Capital One",
-      "level": "Mid-level (2-3 yrs)",
-      "link": "https://www.themuse.com/jobs/capitalone/manager-risk-data-product-manager-b759a7",
-      "location": "McLean, VA",
-      "posted": "2026-07-12",
-      "source": "The Muse",
-      "summary": "Manager, Risk Data Product Manager Product Management at Capital One is a booming, vibrant craft that requires reimagining the status quo, finding value creation opportunities, and driving innovative and sustainable customer experiences through technology. We believe our portfolio of businesses and investments in...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1604,17 +2055,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager, Partner Commerce",
-      "company": "Netflix",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-partner-commerce-at-netflix-4418300026",
-      "location": "Los Gatos, CA",
-      "posted": "2026-07-11",
-      "source": "LinkedIn",
-      "summary": "At Netflix, our mission is to entertain the world. Together, we are writing the next episode - pushing the boundaries of storytelling, global fandom and making the unimaginable a reality. We are a dream team obsessed with the uncomfortable excitement of discovering what happens when you merge creativity, intuition and...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Senior Product Manager, Scale Test",
       "company": "Salesforce",
       "level": "Senior",
@@ -1648,17 +2088,6 @@
       "category": "PM Internships"
     },
     {
-      "role": "Manager, Product Manager, Payment Platforms",
-      "company": "Capital One",
-      "level": "Mid-level (2-3 yrs)",
-      "link": "https://www.themuse.com/jobs/capitalone/manager-product-manager-payment-platforms-868f20",
-      "location": "McLean, VA; New York, NY; Richmond, VA",
-      "posted": "2026-07-10",
-      "source": "The Muse",
-      "summary": "Manager, Product Manager, Payment Platforms At Capital One, we believe great products begin with a deep understanding of our customers. From our earliest days, we pioneered the use of predictive modeling to individually personalize credit card offers, turning the entire industry on its head. As we've grown bigger,...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Product Manager - Card Partnerships Team",
       "company": "Capital One",
       "level": "Mid-level (2-3 yrs)",
@@ -1667,17 +2096,6 @@
       "posted": "2026-07-10",
       "source": "The Muse",
       "summary": "Product Manager - Card Partnerships Team Manager, Product Management Product Management at Capital One is a booming, vibrant craft that requires reimagining the status quo, finding value creation opportunities, and driving innovative and sustainable customer experiences through technology. We believe our portfolio of...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager: Capital One Shopping (Remote-Eligible)",
-      "company": "Capital One",
-      "level": "Mid-level (2-3 yrs)",
-      "link": "https://www.themuse.com/jobs/capitalone/product-manager-capital-one-shopping-remoteeligible-187524",
-      "location": "Flexible / Remote; McLean, VA; New York, NY",
-      "posted": "2026-07-10",
-      "source": "The Muse",
-      "summary": "Product Manager: Capital One Shopping (Remote-Eligible) Job Description We are looking for a Product Manager to join our growing team in Capital One Shopping. If you have a remarkable ability to use data to tell a story, form a hypothesis and define metrics to identify the success of product initiatives - this is the...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1704,13 +2122,13 @@
     },
     {
       "role": "Product Manager",
-      "company": "exacare ai",
+      "company": "Deluxe",
       "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-exacare-ai-4404208901",
-      "location": "New York, NY",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-deluxe-4387098430",
+      "location": "Fort Worth, TX",
       "posted": "2026-07-10",
       "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
+      "summary": "We are looking for this role to join the product team located in our Fort Worth, Texas location. The Product Manager owns end-to-end accountability for a low to moderately complex product or a significant or complex feature of a product. They are responsible for the product/feature roadmap and backlog and driving...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1758,17 +2176,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Staff Product Manager, Cortex",
-      "company": "Robinhood",
-      "level": "Staff",
-      "link": "https://job-boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803",
-      "location": "Menlo Park, CA; New York, NY",
-      "posted": "2026-07-10",
-      "source": "Company (Greenhouse)",
-      "summary": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Associate Product Manager",
       "company": "Sharp Electronics Corporation USA",
       "level": "Entry / Associate",
@@ -1802,15 +2209,15 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Associate Product Manager",
-      "company": "BJ's Wholesale Club",
-      "level": "Entry / Associate",
-      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-at-bj-s-wholesale-club-4430137321",
-      "location": "Marlborough, MA",
+      "role": "Product Manager",
+      "company": "Chefman & CHEF iQ",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-chefman-chef-iq-4437921466",
+      "location": "Mahwah, NJ",
       "posted": "2026-07-09",
       "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Associate PM Roles"
+      "summary": "About CHEF IQ At CHEF iQ, we're building an ecosystem of connected kitchen appliances, embedded software, mobile applications, cloud services, and intelligent cooking experiences designed to transform how people cook at home. We are seeking a Product Manager to help shape the future of the CHEF iQ experience by...",
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Sr Product Manager - Agentic Intake & Orchestration -11632",
@@ -1821,17 +2228,6 @@
       "posted": "2026-07-09",
       "source": "The Muse",
       "summary": "Coupa makes margins multiply through its community-generated AI and industry-leading total spend management platform for businesses large and small. Coupa AI is informed by trillions of dollars of direct and indirect spend data across a global network of 10M+ buyers and suppliers. We empower you with the ability to...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager, Platform Analytics",
-      "company": "Discord",
-      "level": "Senior",
-      "link": "https://job-boards.greenhouse.io/discord/jobs/8529800002",
-      "location": "San Francisco Bay Area",
-      "posted": "2026-07-09",
-      "source": "Company (Greenhouse)",
-      "summary": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -1920,17 +2316,6 @@
       "posted": "2026-07-09",
       "source": "Company (Greenhouse)",
       "summary": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager (Dashboard)",
-      "company": "SpotOn",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-dashboard-at-spoton-4438849170",
-      "location": "Royal Oak, MI",
-      "posted": "2026-07-09",
-      "source": "LinkedIn",
-      "summary": "About SpotOn We’re not just building restaurant tech, we’re giving independent restaurants the tools to compete and win. From our award-winning point-of-sale to AI-powered profit tools, everything we do helps operators boost profit, work smarter, and keep their best people. And every solution is backed by real humans...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -2044,17 +2429,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager Intern",
-      "company": "Centerfield",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-intern-at-centerfield-4424856137",
-      "location": "Los Angeles, CA",
-      "posted": "2026-07-08",
-      "source": "LinkedIn",
-      "summary": "Hi, We're Centerfield! Supercharged customer acquisition. Centerfield delivers outcome-based digital marketing solutions and personalized omnichannel experiences for the world’s leading brands. Powered by our proprietary Dugout platform, Centerfield acquires customers at scale for leading residential service,...",
-      "category": "PM Internships"
-    },
-    {
       "role": "Product Manager - Vaulting",
       "company": "Bank of America",
       "level": "Senior+ (8+ yrs)",
@@ -2121,14 +2495,14 @@
       "category": "Associate PM Roles"
     },
     {
-      "role": "Product Manager, Messaging Enablement Platform",
-      "company": "Netflix",
+      "role": "Product Manager, Customer Experience",
+      "company": "ParetoHealth",
       "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-messaging-enablement-platform-at-netflix-4407750930",
-      "location": "Los Gatos, CA",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-customer-experience-at-paretohealth-4437076787",
+      "location": "Greater Philadelphia",
       "posted": "2026-07-08",
       "source": "LinkedIn",
-      "summary": "At Netflix, our mission is to entertain the world. Together, we are writing the next episode - pushing the boundaries of storytelling, global fandom and making the unimaginable a reality. We are a dream team obsessed with the uncomfortable excitement of discovering what happens when you merge creativity, intuition and...",
+      "summary": "We’re in this for the greater good at ParetoHealth. Our mission is collective greatness, nothing less will do. Our team is a single force united in the drive to transform employee health benefits. The company was founded in 2011 to help small and medium-sized businesses fight the rising cost of employee health...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -2187,6 +2561,17 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Product Manager",
+      "company": "Clozd",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-clozd-4437820494",
+      "location": "Lehi, UT",
+      "posted": "2026-07-07",
+      "source": "LinkedIn",
+      "summary": "Clozd is the leader in Decision Intelligence, helping companies uncover the truth by capturing direct feedback throughout the customer journey. We believe most revenue organizations are operating without the full picture. CRM and call data only tell part of the story. Clozd delivers the missing truth layer, giving...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Product Manager, Revenue Growth Management",
       "company": "Constellation Brands",
       "level": "Senior (4-6 yrs)",
@@ -2220,6 +2605,17 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Product Manager",
+      "company": "Lucid Software",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-lucid-software-4401373584",
+      "location": "Salt Lake City, UT",
+      "posted": "2026-07-07",
+      "source": "LinkedIn",
+      "summary": "Lucid Software is the leader in visual collaboration, helping teams see and build the future from idea to reality. Our products, business, and workplace culture have received numerous awards, such as being named to the Forbes Cloud 100 and a Fortune Best Workplace in Technology. Lucid is a hybrid workplace, allowing...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Product Manager, Driver Earnings",
       "company": "Lyft",
       "level": "Mid-level (2-3 yrs)",
@@ -2242,6 +2638,17 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Product Manager",
+      "company": "ReachMobi",
+      "level": "Entry / Associate",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-reachmobi-4243637726",
+      "location": "Bonita Springs, FL",
+      "posted": "2026-07-07",
+      "source": "LinkedIn",
+      "summary": "Why ReachMobi? At ReachMobi, there are no ceilings. You are the owner and architect of your career path, with no one-size-fits-all model. We are both visionaries and builders, operating without bureaucracy or red tape. Our ethos is simple: have an idea in the morning, ship it by the afternoon, and have data by the...",
+      "category": "Associate PM Roles"
+    },
+    {
       "role": "Senior Director of Product, Ads Platform",
       "company": "Reddit",
       "level": "Director",
@@ -2250,17 +2657,6 @@
       "posted": "2026-07-07",
       "source": "Company (Greenhouse)",
       "summary": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager",
-      "company": "Samsara",
-      "level": "Senior",
-      "link": "https://www.samsara.com/company/careers/roles/8035756?gh_jid=8035756",
-      "location": "Remote - US",
-      "posted": "2026-07-07",
-      "source": "Company (Greenhouse)",
-      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety,...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -2327,6 +2723,17 @@
       "posted": "2026-07-07",
       "source": "LinkedIn",
       "summary": "We are hiring a Product Manager to join our Sauna360 Engineering team! DISCOVER As a Product Manager at Sauna360, you will guide products through their full lifecycle, from early concept to launch and beyond, helping ensure they meet real customer needs while delivering strong business results. You will partner...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Sr. Global Product Manager",
+      "company": "Cricut",
+      "level": "Mid-Senior",
+      "link": "https://www.linkedin.com/jobs/view/sr-global-product-manager-at-cricut-4433996126",
+      "location": "South Jordan, UT",
+      "posted": "2026-07-06",
+      "source": "LinkedIn",
+      "summary": "Cricut® makes smart cutting machines that work with an easy-to-use app, an ever-growing collection of materials, and crafting essentials to help you design and personalize almost anything — custom cards, unique apparel, everyday items, and so much more. We believe everyone is born creative. We’re a diverse tapestry of...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -2502,30 +2909,19 @@
       "location": "San Francisco, CA",
       "posted": "2026-07-02",
       "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
+      "summary": "Please submit your application at: https://www.dedaluslabs.ai/careers?ashby_jid=f38049e1-5804-4ee2-b13c-9e47921e1a76 Only candidates who filled out our form above will be considered. Mission Dedalus Labs is an AI research neolab building infrastructure for AI agents. We’re building the persistent compute layer that...",
       "category": "PM Internships"
     },
     {
       "role": "Product Manager",
       "company": "Chore-Time",
-      "level": "Not specified",
+      "level": "Entry / Associate",
       "link": "https://www.linkedin.com/jobs/view/product-manager-at-chore-time-4432799043",
       "location": "Milford, IN",
       "posted": "2026-07-02",
       "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Sr. Product Manager, Databricks Free Edition",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-databricks-free-edition-8235785002?gh_jid=8235785002",
-      "location": "Seattle, Washington",
-      "posted": "2026-07-02",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ126R51 Mission At Databricks, we’re on a mission to help data teams solve the world’s toughest problems. The Databricks Free Edition makes it easy for students, enthusiasts, and aspiring professionals to explore data and AI hands-on, gaining the skills and confidence to build the future. We’re looking for a Senior...",
-      "category": "Full-Time PM Roles"
+      "summary": "This position is based in Milford, Indiana Who We Are: Chore-Time is a division of CTB, Inc., a Berkshire Hathaway Company. CTB’s core purpose is Helping to Feed a Hungry World® through several business units that manufacture and supply systems and solutions primarily for the agricultural supply chain. Founded in...",
+      "category": "Associate PM Roles"
     },
     {
       "role": "Staff Product Manager",
@@ -2583,17 +2979,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Associate Product Manager - Expansion",
-      "company": "Stanley Black & Decker, Inc.",
-      "level": "Entry / Associate",
-      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-expansion-at-stanley-black-decker-inc-4436380214",
-      "location": "Towson, MD",
-      "posted": "2026-07-02",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
       "role": "Associate Product Manager, Customer Experience",
       "company": "Avant",
       "level": "Entry / Associate",
@@ -2638,94 +3023,6 @@
       "category": "Associate PM Roles"
     },
     {
-      "role": "Sr Product Manager, Employee Experience",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/integration-data-engineering-and-applications/sr-product-manager-employee-experience-8203285002?gh_jid=8203285002",
-      "location": "Mountain View, California; San Francisco, California",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "Sr Product Manager, Employee Experience Location: San Francisco, CA or Mountain View, CA&nbsp; GAQ426R322 About Databricks At Databricks, our mission is to help data teams solve the world’s toughest problems and that starts with empowering our own employees. The Databricks IT organization is a product-led team that...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Sr. Product Manager - Technical",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager---technical-8387085002?gh_jid=8387085002",
-      "location": "New York City, New York",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ427R180 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Sr. Product Manager, Compute Platform",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-compute-platform-8200462002?gh_jid=8200462002",
-      "location": "San Francisco, California",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ127R236 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Sr. Product Manager, Data Engineering",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-data-engineering-6322654002?gh_jid=6322654002",
-      "location": "San Francisco, California",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "P-8 At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best data and AI infrastructure platform so our...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Sr. Product Manager, Databricks AI",
-      "company": "Databricks",
-      "level": "Senior",
-      "link": "https://www.databricks.com/company/careers/product/sr-product-manager-databricks-ai-8136204002?gh_jid=8136204002",
-      "location": "Seattle, Washington",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ127R47 At Databricks, we are passionate about enabling every organization to harness the power of data and AI. Our mission is to build the best platform for developing, deploying, and operating AI applications at scale—so customers can use intelligence to transform their businesses. More about the Team: The...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, AI Platform",
-      "company": "Databricks",
-      "level": "Staff",
-      "link": "https://www.databricks.com/company/careers/product/staff-product-manager-ai-platform-8420609002?gh_jid=8420609002",
-      "location": "San Francisco, California",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ427R276 Location: San Francisco or Seattle At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, Security",
-      "company": "Databricks",
-      "level": "Staff",
-      "link": "https://www.databricks.com/company/careers/product/staff-product-manager-security-7110499002?gh_jid=7110499002",
-      "location": "San Francisco, California",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "P-1016 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Staff Product Manager, Serverless Workspaces",
-      "company": "Databricks",
-      "level": "Staff",
-      "link": "https://www.databricks.com/company/careers/product/staff-product-manager-serverless-workspaces-8420607002?gh_jid=8420607002",
-      "location": "San Francisco, California",
-      "posted": "2026-07-01",
-      "source": "Company (Greenhouse)",
-      "summary": "RDQ427R275 Location: San Francisco or Seattle&nbsp; At Databricks, we are passionate about enabling data teams to solve the world’s toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world’s best...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Senior Product Manager, Digital Assets & Tokenization",
       "company": "DTCC",
       "level": "Senior",
@@ -2734,17 +3031,6 @@
       "posted": "2026-07-01",
       "source": "The Muse",
       "summary": "Job Description Are you ready to make an impact at DTCC? Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Eka Robotics",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-eka-robotics-4434695131",
-      "location": "Cambridge, MA",
-      "posted": "2026-07-01",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
@@ -2828,22 +3114,11 @@
       "role": "Senior Product Manager, Project & Task Experience",
       "company": "Asana",
       "level": "Senior",
-      "link": "https://asana.com/jobs/apply/7392230?gh_jid=7392230",
+      "link": "https://www.asana.com/jobs/apply/7392230?gh_jid=7392230",
       "location": "New York City",
       "posted": "2026-06-30",
       "source": "Company (Greenhouse)",
       "summary": "The Product Management team drives Asana’s product strategy and execution, translating customer needs and opportunities into a compelling roadmap and working cross-functionally to deliver impactful solutions for team productivity and collaboration. We’re helping to define the Work Management category and inventing new...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager",
-      "company": "Braze",
-      "level": "Senior",
-      "link": "https://www.themuse.com/jobs/braze/senior-product-manager-156142",
-      "location": "New York, NY",
-      "posted": "2026-06-30",
-      "source": "The Muse",
-      "summary": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -2856,39 +3131,6 @@
       "source": "The Muse",
       "summary": "Cargill is a family company committed to providing food and agricultural solutions to nourish the world in a safe, responsible, and sustainable way. We sit at the heart of the supply chain, partnering with producers and customers to source, make and deliver products that are vital for living. By providing customers...",
       "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "GreenLite",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-greenlite-4435305692",
-      "location": "New York, NY",
-      "posted": "2026-06-30",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager, Growth & Monetization",
-      "company": "Nanit",
-      "level": "Senior",
-      "link": "https://www.themuse.com/jobs/nanit/senior-product-manager-growth-monetization",
-      "location": "New York, NY",
-      "posted": "2026-06-30",
-      "source": "The Muse",
-      "summary": "About Nanit: Nanit is moving families beyond overwhelm by transforming how parents understand their baby's early years. We combine advanced AI, real-world data from billions of sleep hours, and clinical expertise to deliver the clarity and confidence every parent deserves. Trusted by over one million families and...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager, Intern",
-      "company": "Tessera Labs",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-intern-at-tessera-labs-4425077916",
-      "location": "New York, NY",
-      "posted": "2026-06-29",
-      "source": "LinkedIn",
-      "summary": "About Tessera Labs Tessera Labs is redefining how enterprises adop and operationalize Artificial Intelligence. Backed by Foundation and with a recent $60M Series A led by Andreessen Horowitz (a16z), we build multi-agent AI Systems that automate complex business workflows across platforms like SAP, Salesforce, Workday,...",
-      "category": "PM Internships"
     },
     {
       "role": "Product Manager - CDP and Consumer MDM",
@@ -2935,22 +3177,22 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Internship, Product Manager, Residential Energy Engineering (Fall 2026)",
+      "company": "Tesla",
+      "level": "Internship",
+      "link": "https://www.linkedin.com/jobs/view/internship-product-manager-residential-energy-engineering-fall-2026-at-tesla-4434069673",
+      "location": "Palo Alto, CA",
+      "posted": "2026-06-27",
+      "source": "LinkedIn",
+      "summary": "(Open the LinkedIn link for the full description.)",
+      "category": "PM Internships"
+    },
+    {
       "role": "Associate Product Manager - AXS",
       "company": "AEG",
       "level": "Entry / Associate",
       "link": "https://www.linkedin.com/jobs/view/associate-product-manager-axs-at-aeg-4227655305",
       "location": "Los Angeles, CA",
-      "posted": "2026-06-27",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Forward Deployed Product Manager",
-      "company": "Cresta",
-      "level": "Entry / Associate",
-      "link": "https://www.linkedin.com/jobs/view/associate-forward-deployed-product-manager-at-cresta-4424796583",
-      "location": "United States",
       "posted": "2026-06-27",
       "source": "LinkedIn",
       "summary": "(Open the LinkedIn link for the full description.)",
@@ -2999,17 +3241,6 @@
       "source": "LinkedIn",
       "summary": "(Open the LinkedIn link for the full description.)",
       "category": "Associate PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Mueller Water Products",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-mueller-water-products-4414615957",
-      "location": "Tennessee, United States",
-      "posted": "2026-06-26",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Full-Time PM Roles"
     },
     {
       "role": "Senior Product Manager, Growth & Engagement",
@@ -3097,6 +3328,17 @@
       "posted": "2026-06-26",
       "source": "Company (Greenhouse)",
       "summary": "Who we are About Bridge We're creating an entirely new payments platform, built with stablecoins, to simplify global money movement. Bridge enables faster, cheaper payments and borderless access to dollars via stablecoins. Through our APIs, businesses can send and receive funds across borders faster and cheaper vs....",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager, Ecosystem Risk",
+      "company": "Stripe",
+      "level": "Senior+ (7+ yrs)",
+      "link": "https://stripe.com/jobs/listing/product-manager-ecosystem-risk/7984866",
+      "location": "New-York, Atlanta, Remote, Toronto",
+      "posted": "2026-06-26",
+      "source": "Company (Greenhouse)",
+      "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -3210,17 +3452,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Director, Product Management (Shopping & Offers)",
-      "company": "Affirm",
-      "level": "Director",
-      "link": "https://job-boards.greenhouse.io/affirm/jobs/7780490003",
-      "location": "Remote US",
-      "posted": "2026-06-25",
-      "source": "Company (Greenhouse)",
-      "summary": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Director of Product Management, Shopping &amp; Offers Affirm is reinventing credit to make it more honest and friendly, giving consumers the...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Treasury Product Manager I",
       "company": "Bank of America",
       "level": "Senior (4-6 yrs)",
@@ -3331,28 +3562,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Senior Product Manager, AI",
-      "company": "Instacart",
-      "level": "Senior",
-      "link": "https://www.instacart.careers/job?gh_jid=8024428",
-      "location": "United States - Remote",
-      "posted": "2026-06-24",
-      "source": "Company (Greenhouse)",
-      "summary": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager, In-Store Tasks",
-      "company": "Instacart",
-      "level": "Senior",
-      "link": "https://www.instacart.careers/job?gh_jid=7963724",
-      "location": "United States - Remote",
-      "posted": "2026-06-24",
-      "source": "Company (Greenhouse)",
-      "summary": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Senior Product Manager, Shopping Experience",
       "company": "Instacart",
       "level": "Senior",
@@ -3416,28 +3625,6 @@
       "posted": "2026-06-23",
       "source": "The Muse",
       "summary": "Job Description: At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work and providing a...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Product Manager - Remote",
-      "company": "CareTalk Health",
-      "level": "Entry / Associate",
-      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-remote-at-caretalk-health-4440556963",
-      "location": "United States",
-      "posted": "2026-06-23",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Aivres",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-aivres-4430836048",
-      "location": "Milpitas, CA",
-      "posted": "2026-06-22",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
@@ -3507,25 +3694,25 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Director of Product Management, Financial Platforms",
-      "company": "Affirm",
-      "level": "Director",
-      "link": "https://job-boards.greenhouse.io/affirm/jobs/7718659003",
-      "location": "Remote US",
-      "posted": "2026-06-18",
-      "source": "Company (Greenhouse)",
-      "summary": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Our Financial Platform sits at the heart of every loan Affirm makes and every dollar we move. We're looking for a Director of Product Management...",
+      "role": "Product Manager",
+      "company": "Ema",
+      "level": "Mid-Senior",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-ema-4410786944",
+      "location": "San Francisco Bay Area",
+      "posted": "2026-06-19",
+      "source": "LinkedIn",
+      "summary": "About Ema Ema is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart,...",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Staff Product Manager, Affirm Bank",
+      "role": "Senior Product Manager, Shopping Experiences",
       "company": "Affirm",
-      "level": "Staff",
-      "link": "https://job-boards.greenhouse.io/affirm/jobs/7694938003",
+      "level": "Senior",
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7622734003",
       "location": "Remote US",
       "posted": "2026-06-18",
       "source": "Company (Greenhouse)",
-      "summary": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Affirm is building its own bank — and this role sits at the center of that ambition. We're looking for a Staff Product Manager to own the...",
+      "summary": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. We’re hiring a Senior Product Manager, Shopping Experiences (Direct to Consumer) to launch and scale Affirm's DTC shopping and offers experience....",
       "category": "Full-Time PM Roles"
     },
     {
@@ -3617,28 +3804,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Senior Product Manager, Scaled Abuse",
-      "company": "Discord",
-      "level": "Senior",
-      "link": "https://job-boards.greenhouse.io/discord/jobs/8581126002",
-      "location": "San Francisco Bay Area",
-      "posted": "2026-06-16",
-      "source": "Company (Greenhouse)",
-      "summary": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "Mesa Laboratories, Inc.",
-      "level": "Entry / Associate",
-      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-at-mesa-laboratories-inc-4428069252",
-      "location": "Lakewood, CO",
-      "posted": "2026-06-16",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
       "role": "Product Manager | Vendor Intelligence & Marketplace",
       "company": "Ramp",
       "level": "Senior (4-6 yrs)",
@@ -3658,28 +3823,6 @@
       "posted": "2026-06-15",
       "source": "Company (Greenhouse)",
       "summary": "Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done. The Opportunity Airtable lets teams build custom apps to run their...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Bambee",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-bambee-4424294286",
-      "location": "Glendale, CA",
-      "posted": "2026-06-15",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "Vale Concepts",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-vale-concepts-4427770270",
-      "location": "Seattle, WA",
-      "posted": "2026-06-15",
-      "source": "LinkedIn",
-      "summary": "About Vale At Vale, our goal is to make magic and bring the real benefits of matcha to a billion people. We are a group of fun-loving, matcha enthusiasts who believe that a good idea can come from anywhere. Vale is a Seattle startup making magic through cutting-edge technology, automation, and world class hospitality...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -3716,17 +3859,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Director, FICC Macro Product Manager (AMRS)",
-      "company": "Bank of America",
-      "level": "Director",
-      "link": "https://www.themuse.com/jobs/bankofamerica/director-ficc-macro-product-manager-amrs",
-      "location": "New York, NY",
-      "posted": "2026-06-12",
-      "source": "The Muse",
-      "summary": "Job Description: At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work and providing a...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Technical Product Manager, CI/CD Pipelines & Automation",
       "company": "CarGurus",
       "level": "Senior+ (15+ yrs)",
@@ -3747,17 +3879,6 @@
       "source": "Company (Greenhouse)",
       "summary": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to...",
       "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager Intern - (Paid - India/Remote)",
-      "company": "Peakflo (YC W22)",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-intern-paid-india-remote-at-peakflo-yc-w22-4430729761",
-      "location": "United States",
-      "posted": "2026-06-11",
-      "source": "LinkedIn",
-      "summary": "&#128640; Who we are & What we’re building Peakflo is a rapidly growing Agentic AI company. We are revolutionizing the way global finance teams work with our agentic workflows, and we are actively seeking exceptional talent across diverse disciplines to champion this transformation, uniting multidisciplinary expertise...",
-      "category": "PM Internships"
     },
     {
       "role": "Principal Product Manager - Maintenance",
@@ -3782,6 +3903,17 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Sr. Support Tools Product Manager",
+      "company": "Samsara",
+      "level": "Senior",
+      "link": "https://www.samsara.com/company/careers/roles/7621277?gh_jid=7621277",
+      "location": "Remote - US",
+      "posted": "2026-06-11",
+      "source": "Company (Greenhouse)",
+      "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety,...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Director of Product, Growth/AI",
       "company": "Brex",
       "level": "Director",
@@ -3796,8 +3928,8 @@
       "role": "Group Product Manager",
       "company": "Brex",
       "level": "Group PM (Senior)",
-      "link": "https://www.brex.com/careers/8438582002?gh_jid=8438582002",
-      "location": "Seattle, Washington, United States",
+      "link": "https://www.brex.com/careers/8438580002?gh_jid=8438580002",
+      "location": "San Francisco, California, United States",
       "posted": "2026-06-10",
       "source": "Company (Greenhouse)",
       "summary": "Why join us Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain...",
@@ -3826,17 +3958,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Senior Product Manager, Hardware",
-      "company": "Nanit",
-      "level": "Senior",
-      "link": "https://www.themuse.com/jobs/nanit/senior-product-manager-hardware",
-      "location": "New York, NY",
-      "posted": "2026-06-10",
-      "source": "The Muse",
-      "summary": "About Nanit: Nanit is moving families beyond overwhelm by transforming how parents understand their baby's early years. We combine advanced AI, real-world data from billions of sleep hours, and clinical expertise to deliver the clarity and confidence every parent deserves. Trusted by over one million families and...",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Senior Product Manager (Decryption, Cryptography)",
       "company": "Palo Alto Networks",
       "level": "Senior",
@@ -3848,17 +3969,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager Internship",
-      "company": "Sweatpals",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-internship-at-sweatpals-4426526046",
-      "location": "United States",
-      "posted": "2026-06-09",
-      "source": "LinkedIn",
-      "summary": "About Sweatpals Sweatpals is the community-first fitness platform turning workouts into social experiences. Backed by a16z speedrun, Patron, Kevin Hart, Pear VC, and founders of Instacart and Dreamworks Animations, we connect hundreds of thousands of \"pals,\" hosts, and gyms through events, memberships, and social...",
-      "category": "PM Internships"
-    },
-    {
       "role": "Senior Product Manager, Vertical Ads Platform (Mandarin Speaker)",
       "company": "TikTok",
       "level": "Senior",
@@ -3867,6 +3977,17 @@
       "posted": "2026-06-09",
       "source": "The Muse",
       "summary": "Responsibilities TikTok is seeking an experienced Product Manager to develop ads platform products that streamline the ad creation process and improve the overall user journey. This role will focus on enhancing the workflow within TikTok Ads Manager, specifically supporting Commerce performance ads vertical. You will...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Handoff",
+      "level": "Mid-Senior",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-handoff-4425662299",
+      "location": "Austin, TX",
+      "posted": "2026-06-08",
+      "source": "LinkedIn",
+      "summary": "Why join us? Handoff is the AI agent that runs a construction company. We help remodelers automate estimating, streamline operations, and win more work - backed by real-time cost data, intuitive design, and workflows that “speak contractor.” With over 10,000 monthly active users and $6B in annualized project volume...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -3925,6 +4046,17 @@
       "category": "Associate PM Roles"
     },
     {
+      "role": "Product Manager",
+      "company": "Zivian Health",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-zivian-health-4423565080",
+      "location": "Detroit, MI",
+      "posted": "2026-06-04",
+      "source": "LinkedIn",
+      "summary": "Zivian’s mission is to expand access to high-quality healthcare. Our expert guidance and software solutions simplify compliance, improve clinical quality, and streamline management of healthcare teams. This helps independent providers and healthcare organizations stay focused on their core competence: patient care. We...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Associate Product Manager / Product Manager, Member Experience",
       "company": "23andMe",
       "level": "Entry / Associate",
@@ -3967,17 +4099,6 @@
       "source": "The Muse",
       "summary": "Join the team shaping the investment offerings for America's largest DC asset manager. In this senior role, you will collaborate across investments, client teams, and functional partners to shape strategy for target-date and index products, bringing a specialized blend of client, business, and investment acumen to a...",
       "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)",
-      "company": "TikTok",
-      "level": "Internship",
-      "link": "https://www.themuse.com/jobs/tiktok/product-manager-shop-ads-creative-project-intern-ads-interface-and-platform-2026-start-bsms",
-      "location": "San Jose, CA",
-      "posted": "2026-05-29",
-      "source": "The Muse",
-      "summary": "Responsibilities Team Introduction: The TikTok Shop Ads team builds advertising solutions that help merchants and brands grow their business on TikTok Shop. Our flagship automated solution, GMV Max, helps advertisers drive sales by simplifying campaign setup while automating delivery and ad optimization. This role...",
-      "category": "PM Internships"
     },
     {
       "role": "Associate Product Manager",
@@ -4079,17 +4200,6 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager",
-      "company": "SentriLock",
-      "level": "Not specified",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-at-sentrilock-4414648288",
-      "location": "West Chester, OH",
-      "posted": "2026-05-26",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
       "role": "Treasury Product Manager II",
       "company": "Bank of America",
       "level": "Senior+ (10+ yrs)",
@@ -4098,17 +4208,6 @@
       "posted": "2026-05-23",
       "source": "The Muse",
       "summary": "Job Description: At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work and providing a...",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Product Manager (Video Recommendation and Safety) - TikTok Safety Product (San Jose)",
-      "company": "TikTok",
-      "level": "Senior",
-      "link": "https://www.themuse.com/jobs/tiktok/senior-product-manager-video-recommendation-and-safety-tiktok-safety-product-san-jose",
-      "location": "San Jose, CA",
-      "posted": "2026-05-23",
-      "source": "The Muse",
-      "summary": "Responsibilities About the Team The Safety Product (or Platform Responsibility) team is at the forefront of building and optimizing content safety systems. With a focus on optimising and advancing content safety, we leverage advanced large language models to enhance review efficiency, risk control, and user trust....",
       "category": "Full-Time PM Roles"
     },
     {
@@ -4189,15 +4288,15 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Associate Product Manager",
-      "company": "Leap Theory, LLC",
-      "level": "Entry / Associate",
-      "link": "https://www.linkedin.com/jobs/view/associate-product-manager-at-leap-theory-llc-4414134877",
-      "location": "Los Angeles, CA",
-      "posted": "2026-05-13",
-      "source": "LinkedIn",
-      "summary": "(Open the LinkedIn link for the full description.)",
-      "category": "Associate PM Roles"
+      "role": "Senior Product Manager - Advertising",
+      "company": "Spotify",
+      "level": "Senior",
+      "link": "https://jobs.lever.co/spotify/008e0a44-088b-48f2-b100-cce07e40a45b",
+      "location": "New York, NY",
+      "posted": "2026-05-14",
+      "source": "Company (Lever)",
+      "summary": "Our mission on the Advertising Product & Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scale brings unique...",
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Product Manager-Client Platform Multi-Factor Authentication, Vice President",
@@ -4318,6 +4417,17 @@
       "posted": "2026-04-30",
       "source": "Company (Ashby)",
       "summary": "ABOUT THE ROLE OpenAI is hiring a Deployed PM to help our customers get maximally deployed on our products. This person is the product counterpart to Deployment Engineers: someone who can spot product expansion opportunities inside an account, build trust with technical and executive stakeholders, drive...",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager",
+      "company": "Adaptive",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-adaptive-4405404226",
+      "location": "New York, NY",
+      "posted": "2026-04-22",
+      "source": "LinkedIn",
+      "summary": "What we do Adaptive is a vertical AI company of 50, building the agentic operating system for the $2 trillion U.S. construction industry. We work with over 1,000 customers, partner with over 50 accounting firms, and have raised $26m from Emergence, a16z, and other top funds. Why join us? Win a massive category that's...",
       "category": "Full-Time PM Roles"
     },
     {
@@ -4464,6 +4574,17 @@
       "category": "Full-Time PM Roles"
     },
     {
+      "role": "Product Manager",
+      "company": "NoGood",
+      "level": "Not specified",
+      "link": "https://www.linkedin.com/jobs/view/product-manager-at-nogood-4380391209",
+      "location": "New York, NY",
+      "posted": "2026-03-03",
+      "source": "LinkedIn",
+      "summary": "We are: Goodie helps leading brands win AI search. As billions of people use ChatGPT, Perplexity, Gemini, and other AI systems to discover products and make buying decisions, brands need a way to understand and influence how they're represented. Goodie gives teams a full AI control plane: real-time visibility into how...",
+      "category": "Full-Time PM Roles"
+    },
+    {
       "role": "Product Manager, API Agents",
       "company": "Openai",
       "level": "Senior (4-6 yrs)",
@@ -4473,17 +4594,6 @@
       "source": "Company (Ashby)",
       "summary": "About the Team: The OpenAI API team builds the foundation that enables every developer to harness OpenAI’s models safely, reliably, and at scale. Our mission is to make it effortless for any developer to build transformative products with OpenAI’s models. We’re responsible for the infrastructure and product layers...",
       "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager Intern",
-      "company": "Creatify AI",
-      "level": "Internship",
-      "link": "https://www.linkedin.com/jobs/view/product-manager-intern-at-creatify-ai-4370128990",
-      "location": "Mountain View, CA",
-      "posted": "2026-02-07",
-      "source": "LinkedIn",
-      "summary": "About Creatify Creatify is building the world’s first end-to-end AI advertising agent—a platform that automates the entire video ad lifecycle, from scripting and avatar-led generation to testing, optimization, and publishing across Meta, TikTok, YouTube, and more. We’ve surpassed 3 million users across 18,000+ teams....",
-      "category": "PM Internships"
     },
     {
       "role": "Product Manager",
@@ -4761,191 +4871,147 @@
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Manager, Product Management - Workforce & Intelligent Routing Data Product Manager",
+      "role": "Manager, Product Manager-Small Business Bank Associate Servicing",
       "company": "Capital One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/manager-product-management-workforce-intelligent-routing-data-product-manager/10183219",
-      "location": "McLean, VA, USA; Chicago, IL, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "2 Days Ago",
-      "source": "Built In",
-      "summary": "Capital One is hiring for a Manager, Product Management - Workforce & Intelligent Routing Data Product Manager in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Manager, Product Manager - Activities, Emerging Verticals - Capital One Travel",
-      "company": "Capital One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/manager-product-manager-activities-emerging-verticals-capital-one-travel/10183233",
-      "location": "McLean, VA, USA; New York, NY, USA",
-      "posted": "2 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Manager, Product Manager - Hotels Tax & Compliance, Capital One Travel",
-      "company": "Capital One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/manager-product-manager-hotels-tax-compliance-capital-one-travel/10183192",
+      "level": "Entry / Associate",
+      "link": "https://builtin.com/job/manager-product-manager-small-business-bank-associate-servicing/10205623",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
-      "summary": "Capital One is hiring for a Manager, Product Manager - Hotels Tax & Compliance, Capital One Travel in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Manager, Product Manager - Incentive Platform",
-      "company": "Capital One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/manager-product-manager-incentive-platform/10183217",
-      "location": "McLean, VA, USA; New York, NY, USA; Wilmington, DE, USA",
-      "posted": "2 Days Ago",
-      "source": "Built In",
-      "summary": "Capital One is hiring for a Manager, Product Manager - Incentive Platform in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Manager, Product Manager - UX/UI & Merchandising | Cars, Capital One Travel",
-      "company": "Capital One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/manager-product-manager-ux-ui-merchandising-cars-capital-one-travel/10183245",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "2 Days Ago",
-      "source": "Built In",
-      "summary": "Capital One is hiring for a Manager, Product Manager - UX/UI & Merchandising | Cars, Capital One Travel in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Product Manager - Mainstreet Card Team",
-      "company": "Capital One",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-mainstreet-card-team/10183221",
-      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
-      "posted": "2 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Full-Time PM Roles"
-    },
-    {
-      "role": "Senior Associate, Product Manager - Card Site Team",
-      "company": "Capital One",
-      "level": "Senior",
-      "link": "https://builtin.com/job/senior-associate-product-manager-card-site-team/10183191",
-      "location": "McLean, VA, USA; Chicago, IL, USA; New York, NY, USA",
-      "posted": "2 Days Ago",
-      "source": "Built In",
-      "summary": "Capital One is hiring for a Senior Associate, Product Manager - Card Site Team in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "Capital One is hiring for a Manager, Product Manager-Small Business Bank Associate Servicing in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
       "category": "Associate PM Roles"
     },
     {
-      "role": "Senior Manager, Product Manager-Small Business Bank Digital Servicing",
+      "role": "Manager, Product Manager-Small Business Bank Digital Servicing",
       "company": "Capital One",
-      "level": "Senior",
-      "link": "https://builtin.com/job/senior-manager-product-manager-small-business-bank-digital-servicing/10183254",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/manager-product-manager-small-business-bank-digital-servicing/10205658",
       "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
-      "summary": "Capital One is hiring for a Senior Manager, Product Manager-Small Business Bank Digital Servicing in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "Capital One is hiring for a Manager, Product Manager-Small Business Bank Digital Servicing in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager II - Developer Engagement",
-      "company": "Datadog",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-ii-developer-engagement/10182894",
-      "location": "New York, NY, USA",
+      "role": "Senior Manager, Product Manager - In Person Transactions",
+      "company": "Capital One",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-manager-product-manager-person-transactions/10205606",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Staff Product Manager, Observability Data Platforms",
-      "company": "Datadog",
-      "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-observability-data-platforms/10188035",
-      "location": "New York, NY, USA",
+      "role": "Senior Manager, Product Manager- Migration Strategy & Ecosystem Readiness",
+      "company": "Capital One",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-manager-product-manager-migration-strategy-ecosystem-readiness/10205622",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
-      "summary": "Datadog is hiring for a Staff Product Manager, Observability Data Platforms in New York, NY, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "Capital One is hiring for a Senior Manager, Product Manager- Migration Strategy & Ecosystem Readiness in McLean, VA, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager II",
-      "company": "DraftKings",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-ii/10176519",
-      "location": "United States",
+      "role": "Senior Manager, Product Manager-Data Analysis & Governance",
+      "company": "Capital One",
+      "level": "Senior",
+      "link": "https://builtin.com/job/senior-manager-product-manager-data-analysis-governance/10205637",
+      "location": "McLean, VA, USA; Richmond, VA, USA; New York, NY, USA; Wilmington, DE, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Product Manager, Checkout Experience",
-      "company": "Klaviyo",
+      "role": "Product Manager, Consumer Mobile App",
+      "company": "CarGurus",
       "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager-checkout-experience/10182582",
+      "link": "https://builtin.com/job/product-manager-consumer-mobile-app/10204173",
       "location": "Boston, MA, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
+      "summary": "CarGurus is hiring for a Product Manager, Consumer Mobile App in Boston, MA, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Staff Product Manager, Security (Public Sector)",
-      "company": "MongoDB",
+      "role": "Product Manager III",
+      "company": "Garner Health",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-iii/10210534",
+      "location": "New York, NY, USA",
+      "posted": "2 Days Ago",
+      "source": "Built In",
+      "summary": "Garner Health is hiring for a Product Manager III in New York, NY, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Staff Product Manager- Vehicle Observability",
+      "company": "General Motors",
       "level": "Staff",
-      "link": "https://builtin.com/job/staff-product-manager-security-public-sector/10183408",
-      "location": "United States",
+      "link": "https://builtin.com/job/staff-product-manager-vehicle-observability/10195553",
+      "location": "Warren, MI, USA; Mountain View, CA, USA",
+      "posted": "2 Days Ago",
+      "source": "Built In",
+      "summary": "General Motors is hiring for a Staff Product Manager- Vehicle Observability in Warren, MI, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "AVP, Product Manager - Bank Innovation",
+      "company": "Leader Bank",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/avp-product-manager-bank-innovation/10197940",
+      "location": "Arlington, MA, USA",
+      "posted": "2 Days Ago",
+      "source": "Built In",
+      "summary": "Leader Bank is hiring for a AVP, Product Manager - Bank Innovation in Arlington, MA, USA. Find more details about the job and how to apply at Built In.",
+      "category": "Full-Time PM Roles"
+    },
+    {
+      "role": "Product Manager - Product Strategy & Marketing",
+      "company": "NBCUniversal",
+      "level": "Not specified",
+      "link": "https://builtin.com/job/product-manager-product-strategy-marketing/10195343",
+      "location": "New York, NY, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Full-Time PM Roles"
     },
     {
-      "role": "Digital Product Manager Senior - PNC.com Retail Experience Strategy",
+      "role": "Product Manager Sr - P&amp;C",
       "company": "PNC Bank",
       "level": "Senior",
-      "link": "https://builtin.com/job/digital-product-manager-senior-pnc-com-retail-experience-strategy/10192550",
-      "location": "Pittsburgh, PA, USA",
+      "link": "https://builtin.com/job/product-manager-sr-p-amp-c/10197450",
+      "location": "Cleveland, OH, USA",
       "posted": "2 Days Ago",
       "source": "Built In",
-      "summary": "PNC Bank is hiring for a Digital Product Manager Senior - PNC.com Retail Experience Strategy in Pittsburgh, PA, USA. Find more details about the job and how to apply at Built In.",
+      "summary": "PNC Bank is hiring for a Product Manager Sr - P&C in Cleveland, OH, USA. Find more details about the job and how to apply at Built In.",
       "category": "Full-Time PM Roles"
     },
     {
       "role": "Associate Product Manager",
-      "company": "Clerkie",
+      "company": "US Conec",
       "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/9998901",
-      "location": "USA",
-      "posted": "17 Days Ago",
+      "link": "https://builtin.com/job/associate-product-manager/10206911",
+      "location": "Hickory, NC, USA",
+      "posted": "2 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
     },
     {
-      "role": "Global Associate Product Manager",
-      "company": "Franklin Electric",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/global-associate-product-manager/10008319",
-      "location": "Madison, WI, USA",
-      "posted": "16 Days Ago",
+      "role": "Director, Product Manager- Agentic AI Platform",
+      "company": "ServiceNow",
+      "level": "Director",
+      "link": "https://builtin.com/job/director-product-manager-agentic-ai-platform/10230702",
+      "location": "Santa Clara, CA, USA",
+      "posted": "15 Hours Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager",
-      "company": "T-Mobile",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager/10005589",
-      "location": "Bellevue, WA, USA",
-      "posted": "16 Days Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
+      "category": "Full-Time PM Roles"
     },
     {
       "role": "Associate Product Manager, New Grad",
@@ -4953,32 +5019,10 @@
       "level": "Entry / Associate",
       "link": "https://builtin.com/job/associate-product-manager-new-grad/10047521",
       "location": "San Mateo, CA, USA",
-      "posted": "14 Days Ago",
+      "posted": "15 Days Ago",
       "source": "Built In",
       "summary": "(Open the Built In link for the full description.)",
       "category": "Associate PM Roles"
-    },
-    {
-      "role": "Associate Product Manager - CDH",
-      "company": "BlueCross BlueShield of Tennessee",
-      "level": "Entry / Associate",
-      "link": "https://builtin.com/job/associate-product-manager-cdh/10212392",
-      "location": "Chattanooga, TN, USA",
-      "posted": "13 Hours Ago",
-      "source": "Built In",
-      "summary": "(Open the Built In link for the full description.)",
-      "category": "Associate PM Roles"
-    },
-    {
-      "role": "Product Manager",
-      "company": "NBCUniversal",
-      "level": "Not specified",
-      "link": "https://builtin.com/job/product-manager/10212302",
-      "location": "Los Angeles, CA, USA",
-      "posted": "13 Hours Ago",
-      "source": "Built In",
-      "summary": "NBCUniversal is hiring for a Remote Product Manager in Los Angeles, CA, USA. Find more details about the job and how to apply at Built In.",
-      "category": "Full-Time PM Roles"
     },
     {
       "role": "Program (Product Management)",
